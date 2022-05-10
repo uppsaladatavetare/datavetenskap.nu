@@ -9,14 +9,16 @@ defaultContentLanguage = 'sv'
     [languages.sv]
         contentDir = 'content'
         languageName = 'Swedish'
-        weight = 0
+        weight = 1
     [languages.sv.menu]
 [[languages.sv.menu.main]]
     name = 'Hem'
     url = '/'
-    weight = 0
-
-
+    weight = 1
+[[languages.sv.menu.main]]
+    name = 'Hem'
+    url = '/'
+    weight = 1
 
 [Params]
 description = "Uppsala Datavetare" # Site description. Used in meta description
@@ -39,13 +41,16 @@ post_meta = [
   "categories",
   "translations",
 ] # Order of post meta information     
-readmore = true # Show "Read more" button in list if true
+readmore = false # Show "Read more" button in list if true
 schema = false # Enable Schema
 toc = true # Enable Table of Contents
 twitter_cards = false # Enable Twitter Cards if true
 # TODO: customCSS = ["css/custom.css"] # Include custom CSS files
 # customJS = ["js/custom.js"] # Include custom JS files
 # TODO: favicon = ""
+
+[Params.style.vars]
+  highlightColor = "#b22020" # Override highlight color
 
 [Params.logo]
 image = "img/patch.png" # Logo image. Path relative to "static"
@@ -73,3 +78,4 @@ tags_counter = false # Enable counter for each tag in "Tags" widget
 
 [Params.widgets.social]
 instagram = "uppsaladatavetare"
+facebook = "SektionenUppsalaDatavetare"
