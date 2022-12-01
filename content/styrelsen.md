@@ -18,7 +18,7 @@ menu: main
   * dv-soc@utn.se
 * Tillgångsansvarig: Aron Lif
   * dv-stuff@utn.se
-* Klubbmästare: David Andersson (senior) och Leon Philip (junior)
+* Klubbmästare: Leon Philip (senior) och Johan Andersson Östling (junior)
   * dv-klubb@utn.se
 * Sekreterare: Eydis Daanen
   * dv-sekreterare@utn.se
