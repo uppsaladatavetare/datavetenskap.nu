@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Skapa nytt inlägg</title>
+
+  <!-- Latest compiled and minified CSS -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/css/bootstrap.min.css"
+    integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+</head>
+
+<script>
+  // Hacky method to download a file from a string
+  function download(filename, text) {
+    var element = document.createElement('a');
+    element.setAttribute('href', 'data:text/plain;charset=utf-8,' + encodeURIComponent(text));
+    element.setAttribute('download', filename);
+
+    element.style.display = 'none';
+    document.body.appendChild(element);
+
+    element.click();
+
+    document.body.removeChild(element);
+  }
+
+  // Stringbuilder for the data to be saved
+  function generatePost() {
+    var title = document.getElementById("postTitle").value;
+    var content = document.getElementById("postContent").value;
+    var date = new Date().getFullYear() + "-" + (new Date().getMonth() + 1) + "-" + new Date().getDate();
+    var authors = document.getElementById("postAuthors").value.split(",");
+    var tags = document.getElementById("postTags").value.split(",");
+
+    var post = [];
+    post.push(
+      "---\n",
+      "",
+      "\ntitle: " + title,
+      "\ndate: " + date,
+      "\nauthors: ",
+    );
+
+    post.push("[");
+    for (var i = 0; i < authors.length; i++) {
+      post.push('"' + authors[i] + '"');
+      if (i != authors.length - 1) {
+        post.push(", ");
+      }
+    }
+    post.push("]\n");;
+
+    post.push("tags: ");
+    for (var i = 0; i < tags.length; i++) {
+      post.push('\n\t- \"' + tags[i] + '"');
+    }
+    post.push("\n\n---\n");
+
+    post.push(content);
+
+    download(title + ".md", post.join(""));
+  }
+</script>
+
+<body>
+  <div class="container">
+
+    <p>Det här kommer enbart att skapa en markdown fil som sedan läggs upp via GitHub flowet.</p>
+    <form action="" method="post">
+      <div class="form-group">
+        <label for="postTitle">Titel</label>
+        <input type="text" class="form-control" id="postTitle" placeholder="Aa...">
+      </div>
+
+      <div class="form-group">
+        <label for="postContent">Innehåll</label>
+        <textarea class="form-control" id="postContent" rows="5"></textarea>
+      </div>
+
+      <div class="form-group">
+        <label for="postTags">Taggar</label>
+        <input type="text" name="tags" class="form-control" id="postTags" placeholder="Info, Alla, etc...">
+        <small id="tagsHelp" class="form-text text-muted">Separera med ','</small>
+      </div>
+
+      <div class="form-group">
+        <label for="postAuthors">Authors</label>
+        <input type="text" name="tags" class="form-control" id="postAuthors" placeholder="Informationsansvarig">
+        <small id="authorsHelp" class="form-text text-muted">Separera med ','</small>
+      </div>
+
+
+      <button type="submit" onclick="generatePost()" class="btn btn-primary mb-2">Skapa</button>
+    </form>
+  </div>
+</body>
+
+</html>
