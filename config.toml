@@ -45,7 +45,7 @@ readmore = true # Show "Read more" button in list if true
 schema = true # Enable Schema
 toc = true # Enable Table of Contents
 twitter_cards = false # Enable Twitter Cards if true
-# TODO: customCSS = ["css/custom.css"] # Include custom CSS files
+customCSS = ["css/custom.css"] # Include custom CSS files
 # customJS = ["js/custom.js"] # Include custom JS files
 # TODO: favicon = ""
 
