@@ -21,37 +21,65 @@
 
   // Hacky method to download a file from a string
   function download(filename, text) {
-    var element = document.createElement('a');
+    // create a new anchor element
+    const element = document.createElement('a');
+
+    // set the anchor's href attribute to contain the text to be downloaded
     element.setAttribute('href', 'data:text/plain;charset=utf-8,' + encodeURIComponent(text));
+
+    // set the anchor's download attribute to the filename that will be used to save the text
     element.setAttribute('download', filename);
 
+    // hide the anchor
     element.style.display = 'none';
+
+    // add the anchor to the document body
     document.body.appendChild(element);
 
+    // click the anchor to download the text
     element.click();
 
+    // remove the anchor from the document body
     document.body.removeChild(element);
   }
 
   // Stringbuilder for the data to be saved
   function generatePost() {
+    // Get the title from the HTML element
     var title = document.getElementById("postTitle").value;
-    var content = easyMDE.value(); // Gets value from markdown editor
+
+    // Get the content from the markdown editor
+    var content = easyMDE.value();
+
+    // Get the current date
     var date = new Date();
 
-    // var date = new Date().getFullYear() + "-" + (new Date().getMonth() + 1) + "-" + new Date().getDate();
+    // This is a hacky way to get the correct time, but it works for now
+    date.setHours(date.getHours() - 2); // Remove 2 hours to get "correct" time
+
+    // Get all the authors
     var authors = document.getElementById("postAuthors").value.split(",");
+
+    // Get all the tags
     var tags = document.getElementById("postTags").value.split(",");
+
+    // Get the thumbnail name
     var thumbnail_name = document.getElementById("postThumb").value;
+
+    // Create the thumbnail path
     var thumbnail = '"' + "/img/" + new Date().getFullYear() + "/" + thumbnail_name + '"';
 
     var post = [];
+
+    // Add the front matter to the post
     post.push(
       "---\n",
       "",
       "\ntitle: " + title,
-      "\ndate: " + date.toLocaleDateString("sv-SE"),
+      "\ndate: " + date.toLocaleString("sv-SE"),
     );
+
+    console.log(date.toLocaleString("sv-SE"));
 
     if (thumbnail_name != "") {
       post.push("\nthumbnail: " + thumbnail);
@@ -71,15 +99,20 @@
       post.push('\n  - \"' + tags[i] + '"');
     }
     post.push("\n\n---\n");
+
+    // Add the content
     post.push(content);
 
+    // Create a timestamp for the file
+    var timestamp = date.toLocaleDateString(undefined, {
+      month: "2-digit",
+      day: "2-digit",
+    }).replaceAll("/", "-");
 
-    var filename = (date.toLocaleDateString(undefined, {
-      month: '2-digit',
-      day: '2-digit'
-    }) + "_" + title.toLowerCase().replaceAll(" ", "_") + ".md");
+    // Create the filename
+    var filename = (timestamp + "_" + title.toLowerCase().replaceAll(" ", "_") + ".md");
 
-
+    // Create the file
     download(filename, post.join(""));
   }
 </script>
