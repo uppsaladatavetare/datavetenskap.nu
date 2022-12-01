@@ -76,6 +76,25 @@ categories_counter = false # Enable counter for each category in "Categories" wi
 recent_num = 5 # Set the number of articles in the "Recent articles" widget
 tags_counter = false # Enable counter for each tag in "Tags" widget
 
+[[Params.widgets.social.custom]]
+  title = "Uppsala Datavetare"
+  url = "https://www.facebook.com/SektionenUppsalaDatavetare"
+  icon = "svg/facebook.svg"
+
+[[Params.widgets.social.custom]]
+  title = "Uppsala Datavetare"
+  url = "https://www.instagram.com/uppsaladatavetare/"
+  icon = "svg/instagram.svg"
+
+[[Params.widgets.social.custom]]
+  title = "DVKV"
+  url = "https://www.facebook.com/DatavetenskapligaKV"
+  icon = "svg/facebook.svg"
+
+[[Params.widgets.social.custom]]
+  title = "DVKV"
+  url = "https://www.instagram.com/dvkv_uppsala"
+  icon = "svg/instagram.svg"
+
 [Params.widgets.social]
-instagram = "uppsaladatavetare"
-facebook = "SektionenUppsalaDatavetare"
+github = "uppsaladatavetare"
