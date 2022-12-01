@@ -19,7 +19,7 @@ Nu är det (nästan!) jul igen, och vad passar då inte bättre än att fira in 
 
 **DATUM**: 8 december\
 **TID**: 17:45\
-**PLATS**: [Skånes](https://goo.gl/maps/Nxz7fpDsRpPfbX436)
+**PLATS**: [Skånes](https://goo.gl/maps/Nxz7fpDsRpPfbX436)\
 **TEMA**: Ovve + JUL\
 [ANMÄLAN](https://forms.gle/XiFNj7FHTPNCYr9W8)
 
