@@ -2,23 +2,24 @@ baseURL = "https://www.datavetenskap.nu/"
 languageCode = "sv"
 theme = "mainroad"
 title = "Uppsala Datavetare"
+summaryLength = 20
 
 # TODO: Language settings
 defaultContentLanguage = 'sv'
 [languages]
-    [languages.sv]
-        contentDir = 'content'
-        languageName = 'Swedish'
-        weight = 1
-    [languages.sv.menu]
+[languages.sv]
+contentDir = 'content'
+languageName = 'Swedish'
+weight = 1
+[languages.sv.menu]
 [[languages.sv.menu.main]]
-    name = 'Hem'
-    url = '/'
-    weight = 1
+name = 'Hem'
+url = '/'
+weight = 1
 [[languages.sv.menu.main]]
-    name = 'Hem'
-    url = '/'
-    weight = 1
+name = 'Hem'
+url = '/'
+weight = 1
 
 [Params]
 description = "Uppsala Datavetare" # Site description. Used in meta description
@@ -35,6 +36,7 @@ mathjaxConfig = "TeX-AMS-MML_HTMLorMML" # Specify MathJax config
 mathjaxPath = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js" # Specify MathJax path
 opengraph = true # Enable OpenGraph if true
 pager = true # Show pager navigation (prev/next links) at the bottom of pages if true
+
 post_meta = [
   "author",
   "date",
@@ -50,54 +52,49 @@ customCSS = ["css/custom.css"] # Include custom CSS files
 # TODO: favicon = ""
 
 [Params.style.vars]
-  highlightColor = "#b22020" # Override highlight color
+highlightColor = "#b22020" # Override highlight color
 
 [Params.logo]
-image = "img/patch.png" # Logo image. Path relative to "static"
+image = "img/patch.png"         # Logo image. Path relative to "static"
 subtitle = "Uppsala Datavetare" # Logo subtitle
-title = "Uppsala Datavetare" # Logo title, otherwise will use site title
+title = "Uppsala Datavetare"    # Logo title, otherwise will use site title
 
 [Params.thumbnail]
 visibility = ["list", "post"]
 
 [Params.sidebar]
 home = "right" # Configure layout for home page
-list = "left" # Configure layout for list pages
+list = "left"  # Configure layout for list pages
 single = false # Configure layout for single pages
 # Enable widgets in given order
-widgets = [
-  "recent",
-  "social",
-  "categories",
-  "taglist",
-]
+widgets = ["recent", "social", "categories", "taglist"]
 # alternatively "ddg-search" can be used, to search via DuckDuckGo
 # widgets = ["ddg-search", "recent", "categories", "taglist", "social", "languages"]
 
 [Params.widgets]
 categories_counter = false # Enable counter for each category in "Categories" widget
-recent_num = 5 # Set the number of articles in the "Recent articles" widget
-tags_counter = false # Enable counter for each tag in "Tags" widget
+recent_num = 5             # Set the number of articles in the "Recent articles" widget
+tags_counter = false       # Enable counter for each tag in "Tags" widget
 
 [[Params.widgets.social.custom]]
-  title = "Uppsala Datavetare"
-  url = "https://www.facebook.com/SektionenUppsalaDatavetare"
-  icon = "svg/facebook.svg"
+title = "Uppsala Datavetare"
+url = "https://www.facebook.com/SektionenUppsalaDatavetare"
+icon = "svg/facebook.svg"
 
 [[Params.widgets.social.custom]]
-  title = "Uppsala Datavetare"
-  url = "https://www.instagram.com/uppsaladatavetare/"
-  icon = "svg/instagram.svg"
+title = "Uppsala Datavetare"
+url = "https://www.instagram.com/uppsaladatavetare/"
+icon = "svg/instagram.svg"
 
 [[Params.widgets.social.custom]]
-  title = "DVKV"
-  url = "https://www.facebook.com/DatavetenskapligaKV"
-  icon = "svg/facebook.svg"
+title = "DVKV"
+url = "https://www.facebook.com/DatavetenskapligaKV"
+icon = "svg/facebook.svg"
 
 [[Params.widgets.social.custom]]
-  title = "DVKV"
-  url = "https://www.instagram.com/dvkv_uppsala"
-  icon = "svg/instagram.svg"
+title = "DVKV"
+url = "https://www.instagram.com/dvkv_uppsala"
+icon = "svg/instagram.svg"
 
 [Params.widgets.social]
 github = "uppsaladatavetare"
