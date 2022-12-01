@@ -24,3 +24,16 @@ html {
     margin-bottom: 0px;
   }
 }
+
+.thumbnail__image {
+  border-radius: 20px;
+  max-width: 70%;
+  max-height: 70%;
+  margin: 0 auto;
+}
+
+.post__thumbnail {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
