@@ -64,10 +64,13 @@
       post.push('\n\t- \"' + tags[i] + '"');
     }
     post.push("\n\n---\n");
-
     post.push(content);
 
-    download(title + ".md", post.join(""));
+    var filename = (
+      (new Date().getMonth()) + "-" + (new Date().getDate())
+      + "_" + title.toLowerCase().replaceAll(" ", "_") + ".md");
+
+    download(filename, post.join(""));
   }
 </script>
 
@@ -75,7 +78,7 @@
   <div class="container">
 
     <p>Det här kommer enbart att skapa en markdown fil som sedan läggs upp via GitHub flowet.</p>
-    <form action="" method="post">
+    <form action="">
       <div class="form-group">
         <label for="postTitle">Titel</label>
         <input type="text" class="form-control" id="postTitle" placeholder="Aa...">
