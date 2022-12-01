@@ -40,7 +40,7 @@ Grattis till de nya företroendevalda som valdes på Stormötet igår!
 **Representant till institutionen för informationsteknologi**: Fridtjof Stoldt\
 **Ombud till UTN:s fullmäktige**
 - Ordinarie: Robin Forslund, Samuel Lindberg
-- Suppleant: Oskar Nylin
+- Suppleant: Oskar Nylin, Vidar Pellving
 
 **Ombud till UTN:s valberedning**: Linus Hellström\
 **Ombud till UTN:s internationella utskott**: Fridtjof Stoldt
