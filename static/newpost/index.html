@@ -64,10 +64,13 @@
       post.push('\n\t- \"' + tags[i] + '"');
     }
     post.push("\n\n---\n");
-
     post.push(content);
 
-    download(title + ".md", post.join(""));
+    var filename = (
+      (new Date().getMonth()) + "-" + (new Date().getDate())
+      + "_" + title.toLowerCase().replaceAll(" ", "_") + ".md");
+
+    download(filename, post.join(""));
   }
 </script>
 
