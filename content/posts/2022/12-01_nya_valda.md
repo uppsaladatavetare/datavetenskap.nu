@@ -3,6 +3,7 @@
 title: Nya förtroendevalda
 date: 2022-12-01
 authors: ["Informationsansvarig"]
+thumbnail: "/img/2022/stormöte2022.jpg"
 tags:
   - "Alla"
   - "Uppsala Datavetare"
@@ -10,11 +11,6 @@ tags:
   - "Styrelsen"
 
 ---
-
-<!-- [![Förtroendevalda på Höstmötet 2022](/img/2022/stormöte2022.jpg "Förtroendevalda på Höstmötet 2022")](https://www.facebook.com/SektionenUppsalaDatavetare/photos/a.5966631423350088/5966631373350093/) -->
-
-
-![Förtroendevalda på Höstmötet 2022](/img/2022/stormöte2022.jpg)
 
 Grattis till de nya företroendevalda som valdes på Stormötet igår!
 

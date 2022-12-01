@@ -57,6 +57,9 @@ image = "img/patch.png" # Logo image. Path relative to "static"
 subtitle = "Uppsala Datavetare" # Logo subtitle
 title = "Uppsala Datavetare" # Logo title, otherwise will use site title
 
+[Params.thumbnail]
+visibility = ["list", "post"]
+
 [Params.sidebar]
 home = "right" # Configure layout for home page
 list = "left" # Configure layout for list pages

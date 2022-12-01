@@ -3,14 +3,13 @@
 title: Julpubrunda med DV!
 date: 2022-12-01
 authors: ["Klubbmästare"]
+thumbnail: "/img/2022/julpubrunda.png"
 tags:
   - "Alla"
   - "DVKV"
   - "Pubrunda"
 
 ---
-
-![Julpubrunda](/img/2022/julpubrunda.png)
 
 *ENGLISH BELOW*
 
