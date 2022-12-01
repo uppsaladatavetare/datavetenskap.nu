@@ -51,11 +51,13 @@
       "",
       "\ntitle: " + title,
       "\ndate: " + date.toLocaleDateString("sv-SE"),
-      "\nthumbnail: " + thumbnail,
-      "\nauthors: ",
     );
 
-    post.push("[");
+    if (thumbnail_name != "") {
+      post.push("\nthumbnail: " + thumbnail);
+    }
+
+    post.push("\nauthors: [");
     for (var i = 0; i < authors.length; i++) {
       post.push('"' + authors[i] + '"');
       if (i != authors.length - 1) {
