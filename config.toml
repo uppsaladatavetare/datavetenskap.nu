@@ -17,9 +17,61 @@ name = 'Hem'
 url = '/'
 weight = 1
 [[languages.sv.menu.main]]
-name = 'Hem'
-url = '/'
-weight = 1
+identifier = "Förening"
+name = "Förening"
+weight = 2
+  [[languages.sv.menu.main]]
+  identifier = "Om oss"
+    name = "Om oss"
+    url = "/forening/om-oss"
+    parent = "Förening"
+    weight = 1
+  [[languages.sv.menu.main]]
+    identifier = "Styrelsen"
+    name = "Styrelsen"
+    url = "/forening/styrelsen"
+    parent = "Förening"
+    weight = 2
+  [[languages.sv.menu.main]]
+    identifier = "DVKV"
+    name = "DVKV"
+    url = "/forening/klubbverket"
+    parent = "Förening"
+    weight = 3
+
+[[languages.sv.menu.main]]
+identifier = "Student"
+name = "Student"
+weight = 2
+  [[languages.sv.menu.main]]
+    identifier = "Ordlista"
+    name = "Ordlista"
+    url = "/student/ordlista"
+    parent = "Student"
+    weight = 1
+  [[languages.sv.menu.main]]
+    identifier = "Länkar"
+    name = "Länkar"
+    url = "/student/lankar"
+    parent = "Student"
+    weight = 2
+[[languages.sv.menu.main]]
+identifier = "Utbildningen"
+name = "Utbildningen"
+weight = 2
+  [[languages.sv.menu.main]]
+    identifier = "Programmet"
+    name = "Programmet"
+    url = "/utbildningen/programmet"
+    parent = "Utbildningen"
+    weight = 1
+  [[languages.sv.menu.main]]
+    identifier = "efterUtb"
+    name = "Efter utbildningen"
+    url = "/utbildningen/efter-utbildningen"
+    parent = "Utbildningen"
+    weight = 2
+
 
 [Params]
 description = "Uppsala Datavetare" # Site description. Used in meta description
@@ -55,8 +107,8 @@ customCSS = ["css/custom.css"] # Include custom CSS files
 highlightColor = "#b22020" # Override highlight color
 
 [Params.logo]
-image = "img/patch.png"         # Logo image. Path relative to "static"
-subtitle = "Uppsala Datavetare" # Logo subtitle
+image = "img/logo_white.png"         # Logo image. Path relative to "static"
+subtitle = "Föreningen för studenter inom DV-sektionen vid Uppsala Universitet" # Logo subtitle
 title = "Uppsala Datavetare"    # Logo title, otherwise will use site title
 
 [Params.thumbnail]
