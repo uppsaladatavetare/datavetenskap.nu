@@ -31,7 +31,9 @@ html {
 
 .post__thumbnail .thumbnail__image {
   border-radius: 10px;
-  width: 65%;
+  max-height: 400px;
+  width: auto;
+  height: auto;
 }
 
 .post__thumbnail {
