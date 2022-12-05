@@ -7,6 +7,7 @@ authors: ["Informationsansvarig"]
 tags: 
   - "Alla"
   - " Företag"
+  - "PR-Amanuens"
 
 ---
 **What can you expect?**
