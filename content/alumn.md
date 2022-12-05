@@ -6,6 +6,6 @@ sidebar: false
 menu: main
 ---
 
-Uppsala datavetare tillhandahåller inte något eget nätverk för alumner, däremot har [Alumn Nätverket](https://www.uu.se/alumn/Alumnnatverket/) för alla som studerat, arbetar eller har arbetat vid Uppsala universitet.
+Uppsala Datavetare tillhandahåller inte något eget nätverk för alumner, utan använder för tillfället grupperna *DV* och *Datavetenskap Uppsala* på Facebook för kontakt med alumner. Däremot finns [Uppsala Universitets Alumnnätverk](https://www.uu.se/stod-uu/alumnnatverket/) för alla som studerat, arbetar eller har arbetat vid Uppsala universitet.
 
-Även Uppsala teknolog och naturvetarkår (UTN) har ett alumnnätverk där de aktivt arbetar för att hålla god kontakt med alumner. [Här?](https://www.utn.se/sv/arbetsmarknad/alumn)
+Även Uppsala teknolog och naturvetarkår (UTN) har ett alumnnätverk där de aktivt arbetar för att hålla god kontakt med alumner. [Här.](https://www.utn.se/alumn/)

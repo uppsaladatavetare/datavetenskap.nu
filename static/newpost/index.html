@@ -104,7 +104,7 @@
     post.push(content);
 
     // Create a timestamp for the file
-    var timestamp = date.toLocaleDateString(undefined, {
+    var timestamp = date.toLocaleDateString("en-US", {
       month: "2-digit",
       day: "2-digit",
     }).replaceAll("/", "-");
