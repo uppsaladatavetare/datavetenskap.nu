@@ -25,11 +25,13 @@ html {
   }
 }
 
-.thumbnail__image {
-  border-radius: 20px;
-  max-width: 70%;
-  max-height: 70%;
-  margin: 0 auto;
+.list__thumbnail .thumbnail__image {
+  border-radius: 3px;
+}
+
+.post__thumbnail .thumbnail__image {
+  border-radius: 10px;
+  width: 65%;
 }
 
 .post__thumbnail {
