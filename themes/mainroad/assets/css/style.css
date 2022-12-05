@@ -699,7 +699,7 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 }
 
 .menu__item:hover {
-	background: #a71d31;
+	background: #dc354d;
 }
 
 .menu__item:first-child {
@@ -707,7 +707,7 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 }
 
 .menu__item--active {
-	background: {{ $highlightColor }};
+	background: #a71d31;
 }
 
 .menu__link {
