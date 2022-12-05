@@ -25,4 +25,5 @@ What you need: Your computer, headphones, and a problem solving mindset.
 **Time**: The bus will leave 17.15 from Polacksbacken. ( Be on time! )\
 The bus will then go back to Uppsala again at 21.15.\
 [Application form](https://forms.gle/vegvFiRidcs2PhcQ6)\
-Don’t forget to apply on time, places are limited.
+Don’t forget to apply on time, places are limited.\
+[Link to Facebook event](https://fb.me/e/2YxG2hNyI)
