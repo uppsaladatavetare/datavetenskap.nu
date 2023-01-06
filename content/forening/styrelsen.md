@@ -1,6 +1,6 @@
 ---
 title: Styrelsen
-date: 2022-01-25T14:00:00.000Z
+date: 2023-01-06
 authorbox: false
 sidebar: false
 menu: Forening
@@ -8,20 +8,14 @@ menu: Forening
 
 # Styrelsen
 
-* Ordförande: Oskar Nylin
-  * dv-ordf@utn.se
-* Vice Ordförande & Kassör: Sigurd Drivenes 
-  * dv-kassor@utn.se
-* Studierådsordförande: Sabere Hassanyazdi
-  * dv-sr@utn.se
-* Studiesocialt ansvarig: Julia Sandberg
-  * dv-soc@utn.se
-* Tillgångsansvarig: Aron Lif
-  * dv-stuff@utn.se
-* Klubbmästare: Leon Philip (senior) och Johan Andersson Östling (junior)
-  * dv-klubb@utn.se
-* Sekreterare: Eydis Daanen
-  * dv-sekreterare@utn.se
-* Informationsansvarig: Linus Wæhler
-  * dv-info@utn.se
-
+|    |   |   | 
+|---|---|---|
+| **Ordförande** | Robin Forslund  | dv-ordf@utn.se  | 
+| **Vice Ordförande & Kassör** | Samuel Lindberg  | dv-kassor@utn.se  |
+| **Informationsansvarig** | Ella Kennebäck | dv-info@utn.se |
+| **Klubbmästare (senior)** | Johan Andersson Östling | dv-klubb@utn.se |
+| **Klubbmästare (junior)** | Linus Hellström | dv-klubb@utn.se |
+| **Studierådsordförande** | Emil Edin | dv-sr@utn.se | 
+| **Studiesocialt ansvarig** | Filippa Westerberg | dv-soc@utn.se  |
+| **Sekreterare** | Markus Eriksson | dv-sekreterare@utn.se |
+| **Tillgångsansvarig** | Axel Hamilton | dv-stuff@utn.se |
