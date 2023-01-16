@@ -38,6 +38,12 @@ weight = 2
     url = "/forening/klubbverket"
     parent = "Förening"
     weight = 3
+  [[languages.sv.menu.main]]
+    identifier = "Dokument"
+    name = "Dokument"
+    url = "/forening/dokument"
+    parent = "Förening"
+    weight = 4
 
 [[languages.sv.menu.main]]
 identifier = "Student"

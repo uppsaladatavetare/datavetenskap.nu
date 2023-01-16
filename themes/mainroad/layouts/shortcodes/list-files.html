@@ -1,0 +1,12 @@
+<!-- layouts/shortcodes/list-files.html -->
+
+{{ $dir := .Get "dir" }}
+{{ $regexp := .Get "regexp" }}
+
+<div class="doclist">
+  {{ range sort (readDir (delimit (slice "static" $dir) "/")) "Name" }}
+    {{ if (findRE $regexp .Name) }}
+      <a href="/{{ $dir }}/{{ .Name }}">{{ replaceRE $regexp "" .Name }}</a><br>
+    {{ end }}
+  {{ end }}
+</div><br>

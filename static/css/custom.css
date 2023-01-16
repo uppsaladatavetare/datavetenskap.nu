@@ -41,3 +41,9 @@ html {
   justify-content: center;
   align-items: center;
 }
+
+.doclist {
+  width: 400px;
+  max-width: 100%;
+  column-width: 120px;
+}
