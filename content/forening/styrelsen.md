@@ -6,8 +6,6 @@ sidebar: false
 menu: Forening
 ---
 
-# Styrelsen
-
 |    |   |   | 
 |---|---|---|
 | **Ordförande** | Robin Forslund  | dv-ordf@utn.se  | 
