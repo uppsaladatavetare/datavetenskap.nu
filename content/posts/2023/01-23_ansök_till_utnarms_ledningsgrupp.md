@@ -20,7 +20,7 @@ tags:
 * GRUPPLEDARE FÖR MÄSSGRUPPEN
 * SAMMANKALLANDE FÖR UTNARM 
 
-Posterna går just nu att söka på apply.utn.se
+Posterna går just nu att söka på https://apply.utn.se/
 Ni hittar mer information på UTN:s sociala medier.
 
 Inga tidigare erfarenheter behövs, men ett öppet sinne och ett intresse för att leda en grupp är självklart viktigt!
@@ -44,5 +44,7 @@ As the Convenor for Utnarm you will be part of the management team and will for 
 
 You can find more info in the positions descriptions:
 https://drive.google.com/.../1T7LR2Q7Gg-7mO...
+
+Link to the applications: https://apply.utn.se/
 
 If you have any questions, feel free to email projectmanager@utnarm.se or write to Utnarm on Facebook.
