@@ -11,4 +11,4 @@ Q+ är ett nätverk för tjejer och icke-binära på *IT* och *DV-programmet* so
 
 Alla som identifierar sig som tjej eller ickebinär är varmt välkommna att vara med! Det finns en Facebookgrupp som heter [Q+ gruppen](https://www.facebook.com/groups/211087618989388) som ni gärna får gå med i för att inte missa information och roliga aktiviteter.
 
-Vid frågor eller funderingar - maila qplus@it.uu.se
+Vid frågor eller funderingar - maila *Linda Strid* & *Israa Aly Abdou* på qplus@it.uu.se
