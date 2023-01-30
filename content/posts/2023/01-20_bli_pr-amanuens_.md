@@ -20,6 +20,8 @@ Värt att nämna gratis fika och friskvård ingår <3
 
 För mer information: https://uu.varbi.com/what:job/jobID:580559/
 
+**Ansökan stänger den 3 februari!**
+
 -------------------------------
 
 The bachelor's program in computer science is looking for a new PR assistant. It is a part-time job ( 20%) with a fixed salary.
@@ -30,3 +32,5 @@ Common tasks as the PR assistant include planning alumni presentations, coordina
 Free fika and fitness reimbursement is included <3
 
 For more information: https://uu.varbi.com/what:job/jobID:580559/
+
+**Apply at latest the 3rd of February!**
