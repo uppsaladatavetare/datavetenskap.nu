@@ -2,7 +2,7 @@
 
 title: Kvällsevent med Omegapoint
 date: 2023-02-09 13:30:37
-thumbnail: "/img/2023/omegapoint.jpeg"
+thumbnail: "/img/2023/omegapoint.jpg"
 authors: ["Informationsansvarig"]
 tags: 
   - "Qplus"
