@@ -1,28 +1,29 @@
 ---
-title: Dokument
+title: Documents
 authorbox: false
 sidebar: false
-menu: main
+menu: en-Förening
 ---
 
-## Reglemente och stadgar
+The following documents are only in swedish for the time being.
+
+## Regulations and statutes
 {{< list-files dir="documents" regexp=".pdf$" >}}
 
-
-## Stormötesprotokoll
+## General Assemly minutes
 {{< list-files dir="documents/Stormötesprotokoll" regexp=".pdf$" >}}
 
-## Policyer
+## Policies
 {{< list-files dir="documents/Policyer" regexp=".pdf$" >}}
 
-## Möteprotokoll 2019
+## Board meeting minutes 2019
 {{< list-files dir="documents/Mötesprotokoll_2019" regexp=".pdf$" >}}
 
-## Möteprotokoll 2020
+## Board meeting minutes 2020
 {{< list-files dir="documents/Mötesprotokoll_2020" regexp=".pdf$" >}}
 
-## Möteprotokoll 2021
+## Board meeting minutes 2021
 {{< list-files dir="documents/Mötesprotokoll_2021" regexp=".pdf$" >}}
 
-## Möteprotokoll 2022
+## Board meeting minutes 2022
 {{< list-files dir="documents/Mötesprotokoll_2022" regexp=".pdf$" >}}

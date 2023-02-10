@@ -48,3 +48,7 @@ html {
   max-width: 100%;
   column-width: 120px;
 }
+
+#lang_switcher {
+  color: #e8b923 !important;
+}

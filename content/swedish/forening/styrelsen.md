@@ -3,7 +3,7 @@ title: Styrelsen
 date: 2023-01-06
 authorbox: false
 sidebar: false
-menu: Forening
+menu: Förening
 ---
 
 |    |   |   | 

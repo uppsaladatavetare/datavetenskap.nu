@@ -8,9 +8,13 @@ summaryLength = 20
 defaultContentLanguage = 'sv'
 [languages]
 [languages.sv]
-contentDir = 'content'
+contentDir = 'content/swedish'
 languageName = 'Swedish'
 weight = 1
+[languages.en]
+contentDir = 'content/english'
+languageName = 'English'
+weight = 2
 [languages.sv.menu]
 [[languages.sv.menu.main]]
 name = 'Hem'
@@ -77,6 +81,62 @@ weight = 2
     url = "/utbildningen/efter-utbildningen"
     parent = "Utbildningen"
     weight = 2
+
+[languages.en.menu]
+[[languages.en.menu.main]]
+name = 'Home'
+url = '/en'
+weight = 1
+[[languages.en.menu.main]]
+identifier = "en-Förening"
+name = "The Association"
+weight = 2
+  [[languages.en.menu.main]]
+  identifier = "en-Om oss"
+    name = "About us"
+    url = "/en/forening/om-oss"
+    parent = "en-Förening"
+    weight = 1
+  [[languages.en.menu.main]]
+    identifier = "en-Styrelsen"
+    name = "The Board"
+    url = "/en/forening/styrelsen"
+    parent = "en-Förening"
+    weight = 2
+  [[languages.en.menu.main]]
+    identifier = "en-DVKV"
+    name = "DVKV"
+    url = "/en/forening/klubbverket"
+    parent = "en-Förening"
+    weight = 3
+  [[languages.en.menu.main]]
+    identifier = "en-Dokument"
+    name = "Documents"
+    url = "/en/forening/dokument"
+    parent = "en-Förening"
+    weight = 4
+
+[[languages.en.menu.main]]
+identifier = "en-Student"
+name = "Student"
+weight = 3
+  [[languages.en.menu.main]]
+    identifier = "en-Ordlista"
+    name = "Glossary"
+    url = "/en/student/ordlista"
+    parent = "en-Student"
+    weight = 1
+  [[languages.en.menu.main]]
+    identifier = "en-Länkar"
+    name = "Important links"
+    url = "/en/student/lankar"
+    parent = "en-Student"
+    weight = 2
+[[languages.en.menu.main]]
+identifier = "en-Utbildningen"
+name = "Education"
+weight = 4
+url = "/en/utbildningen/programmet"
 
 
 [Params]
