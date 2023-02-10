@@ -10,7 +10,7 @@ menu: Student
 - [Antagning.se](http://www.antagning.se)
 - [IT-institutionen](http://www.it.uu.se/)
 - [Schemasök](https://cloud.timeedit.net/uu/web/schema/)
-- [Teknat student](http://teknat.uu.se/Student/)
+- [Teknat student](http://teknat.uu.se/)
 - [Universitetsbiblioteket](http://ub.uu.se)
 - [Nationsbibliotek](http://nationsbibliotek.se)
 

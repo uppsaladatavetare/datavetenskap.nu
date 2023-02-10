@@ -1,31 +1,30 @@
 ---
-title: Länkar
+title: Important links
 date: 2022-01-25T14:00:00.000Z
 authorbox: false
 sidebar: false
-menu: Student
+menu: en-Student
 ---
 
 ## Studier
-- [Antagning.se](http://www.antagning.se)
-- [IT-institutionen](http://www.it.uu.se/)
-- [Schemasök](https://cloud.timeedit.net/uu/web/schema/)
-- [Teknat student](http://teknat.uu.se/Student/)
-- [Universitetsbiblioteket](http://ub.uu.se)
-- [Nationsbibliotek](http://nationsbibliotek.se)
+- [Universityadmissions.se](http://www.universityadmissions.se)
+- [The IT-institution](http://www.it.uu.se/)
+- [Find your chedule](https://cloud.timeedit.net/uu/web/schema/)
+- [Teknat student](https://www.teknat.uu.se/?languageId=1)
+- [The University Library](http://ub.uu.se)
+- [The Nation library](http://nationsbibliotek.se)
 
 
 
 ## Studentliv
-- [Ergo](http://www.ergo.nu/)
-- [Nationsguiden](http://www.nationsguiden.se/)
-- [Uppsalastudent](http://uppsalastudent.com/)
-- [Uppsala teknolog- och naturvetarkår](http://www.utn.se/)
+- [The Nation guide](http://www.nationsguiden.se/en)
+- [Uppsalastudent](http://uppsalastudent.com/en)
+- [Uppsala Union of Engineering and Science Students](http://www.utn.se/)
 
 
 ## Bostad
 - [Rikshem](https://www.rikshem.se/)
 - [Heimstaden](http://www.heimstaden.com/)
 - [Uppsalahem](http://www.uppsalahem.se/)
-- [Studentboet](http://studentboet.se/sv/)
+- [Studentboet](http://studentboet.se/en/)
 - [Studentstaden](https://www.studentstaden.se/)

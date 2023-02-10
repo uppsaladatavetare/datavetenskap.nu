@@ -3,6 +3,7 @@ title: Om oss
 authorbox: false
 sidebar: false
 toc: false
+menu: Förening
 ---
 
 UD står för Uppsala Datavetare och vi är vår sektionstyrelse under UTN. Vi sysslar med bl.a. studiebevakning, studiesociala frågor, sociala aktiviteter samt andra saker som rör datavetare på olika sätt.

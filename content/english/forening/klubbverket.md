@@ -3,6 +3,8 @@ title: DVKV
 authorbox: false
 sidebar: false
 toc: false
+menu: en-Förening
 ---
 
-DVKV, det Datavetenskapliga klubbverket, är vårt kära klubbverk. DVKV anordnar regelbundet fester och andra aktiviteter som datavetare kan tänkas uppskatta. DVKV arbetar även för att hålla flera overallstraditioner levande och detta görs bland annat genom att anordna Capseisa - de svenska mästerskapen i parcaps som lockar folk från hela vårt avlånga land till Uppsala för att testa sin lycka i parcaps. Håll er uppdaterade om kommande evenemang här på hemsidan samt på [DVKV's Facebooksida](https://www.facebook.com/DatavetenskapligaKV).
+DVKV, short for Datavetenskapliga klubbverket, is the event group for the Computer Science section at Uppsala University. DVKV regularly organizes parties and other activities that students within the section might appreciate. DVKV also works to keep several traditions alive, this is done among other things by organizing Capseisa - the Swedish championships in the game of Caps that attract people from all over our long country to Uppsala to test their luck in Caps. Stay updated about upcoming events here on the website as well as on [DVKV's Facebook page](https://www.facebook.com/DatavetenskapligaKV).
+

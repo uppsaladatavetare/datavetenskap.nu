@@ -2,7 +2,7 @@
 title: Dokument
 authorbox: false
 sidebar: false
-menu: main
+menu: Förening
 ---
 
 ## Reglemente och stadgar

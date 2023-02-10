@@ -5,7 +5,7 @@ title = "Uppsala Datavetare"
 summaryLength = 20
 
 # TODO: Language settings
-defaultContentLanguage = 'SV'
+defaultContentLanguage = 'sv'
 [languages]
 [languages.sv]
 contentDir = 'content/swedish'
@@ -15,7 +15,6 @@ weight = 1
 contentDir = 'content/english'
 languageName = 'English'
 weight = 2
-
 [languages.sv.menu]
 [[languages.sv.menu.main]]
 name = 'Hem'
@@ -89,32 +88,32 @@ name = 'Home'
 url = '/en'
 weight = 1
 [[languages.en.menu.main]]
-identifier = "The Association"
+identifier = "en-Förening"
 name = "The Association"
 weight = 2
   [[languages.en.menu.main]]
-  identifier = "About"
-    name = "About"
-    url = "/forening/om-oss"
-    parent = "The Association"
+  identifier = "en-Om oss"
+    name = "About us"
+    url = "/en/forening/om-oss"
+    parent = "en-Förening"
     weight = 1
   [[languages.en.menu.main]]
-    identifier = "The Board"
+    identifier = "en-Styrelsen"
     name = "The Board"
-    url = "/forening/styrelsen"
-    parent = "The Association"
+    url = "/en/forening/styrelsen"
+    parent = "en-Förening"
     weight = 2
   [[languages.en.menu.main]]
-    identifier = "DVKV"
+    identifier = "en-DVKV"
     name = "DVKV"
-    url = "/forening/klubbverket"
-    parent = "The Association"
+    url = "/en/forening/klubbverket"
+    parent = "en-Förening"
     weight = 3
   [[languages.en.menu.main]]
-    identifier = "Documents"
+    identifier = "en-Dokument"
     name = "Documents"
-    url = "/forening/dokument"
-    parent = "The Association"
+    url = "/en/forening/dokument"
+    parent = "en-Förening"
     weight = 4
 
 [[languages.en.menu.main]]
@@ -122,27 +121,23 @@ identifier = "en-Student"
 name = "Student"
 weight = 3
   [[languages.en.menu.main]]
-    identifier = "Glossary"
+    identifier = "en-Ordlista"
     name = "Glossary"
-    url = "/student/ordlista"
+    url = "/en/student/ordlista"
     parent = "en-Student"
     weight = 1
   [[languages.en.menu.main]]
-    identifier = "Links"
-    name = "Links"
-    url = "/student/lankar"
+    identifier = "en-Länkar"
+    name = "Important links"
+    url = "/en/student/lankar"
     parent = "en-Student"
     weight = 2
 [[languages.en.menu.main]]
-identifier = "Education"
+identifier = "en-Utbildningen"
 name = "Education"
 weight = 4
-  [[languages.en.menu.main]]
-    identifier = "Master programmes"
-    name = "Master programmes"
-    url = "/utbildningen/programmet"
-    parent = "Education"
-    weight = 1
+url = "/en/utbildningen/programmet"
+
 
 [Params]
 description = "Uppsala Datavetare" # Site description. Used in meta description

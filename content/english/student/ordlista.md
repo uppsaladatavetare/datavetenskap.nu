@@ -3,7 +3,7 @@ title: Ordlista
 date: 2022-01-25T14:00:00.000Z
 authorbox: false
 sidebar: false
-menu: Student
+menu: en-Student
 ---
 
 - **Akademiker**

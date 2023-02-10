@@ -39,10 +39,32 @@
 		{{- end }}
 		{{- end }}
 		{{- end }}
+		{{ range .Site.Languages }}
+ 	   		{{ if eq . $.Site.Language }}
+ 	   		    {{ range $.Translations }}
+					<li class="menu__item">
+						<a class="menu__link" href="{{ .Permalink }}">
+							<span class="menu__text" id="lang_switcher">In {{ .Language.LanguageName }}</span>
+						</a>
+					</li>
+ 	   		    {{ end }}
+			{{ end }}
+		{{ end }}
 	</ul>
 </nav>
 {{ else -}}
 <div class="divider"></div>
+{{ range .Site.Languages }}
+ 	   		{{ if eq . $.Site.Language }}
+ 	   		    {{ range $.Translations }}
+					<li class="menu__item">
+						<a class="menu__link" href="{{ .Permalink }}">
+							<span class="menu__text">In {{ .Language.LanguageName }}</span>
+						</a>
+					</li>
+ 	   		    {{ end }}
+			{{ end }}
+		{{ end }}
 {{- end }}
 <!-- {{- if .Site.Menus.main }}
 <nav class="menu">
