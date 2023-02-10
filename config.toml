@@ -5,12 +5,17 @@ title = "Uppsala Datavetare"
 summaryLength = 20
 
 # TODO: Language settings
-defaultContentLanguage = 'sv'
+defaultContentLanguage = 'SV'
 [languages]
 [languages.sv]
-contentDir = 'content'
+contentDir = 'content/swedish'
 languageName = 'Swedish'
 weight = 1
+[languages.en]
+contentDir = 'content/english'
+languageName = 'English'
+weight = 2
+
 [languages.sv.menu]
 [[languages.sv.menu.main]]
 name = 'Hem'
@@ -78,6 +83,66 @@ weight = 2
     parent = "Utbildningen"
     weight = 2
 
+[languages.en.menu]
+[[languages.en.menu.main]]
+name = 'Home'
+url = '/en'
+weight = 1
+[[languages.en.menu.main]]
+identifier = "The Association"
+name = "The Association"
+weight = 2
+  [[languages.en.menu.main]]
+  identifier = "About"
+    name = "About"
+    url = "/forening/om-oss"
+    parent = "The Association"
+    weight = 1
+  [[languages.en.menu.main]]
+    identifier = "The Board"
+    name = "The Board"
+    url = "/forening/styrelsen"
+    parent = "The Association"
+    weight = 2
+  [[languages.en.menu.main]]
+    identifier = "DVKV"
+    name = "DVKV"
+    url = "/forening/klubbverket"
+    parent = "The Association"
+    weight = 3
+  [[languages.en.menu.main]]
+    identifier = "Documents"
+    name = "Documents"
+    url = "/forening/dokument"
+    parent = "The Association"
+    weight = 4
+
+[[languages.en.menu.main]]
+identifier = "en-Student"
+name = "Student"
+weight = 3
+  [[languages.en.menu.main]]
+    identifier = "Glossary"
+    name = "Glossary"
+    url = "/student/ordlista"
+    parent = "en-Student"
+    weight = 1
+  [[languages.en.menu.main]]
+    identifier = "Links"
+    name = "Links"
+    url = "/student/lankar"
+    parent = "en-Student"
+    weight = 2
+[[languages.en.menu.main]]
+identifier = "Education"
+name = "Education"
+weight = 4
+  [[languages.en.menu.main]]
+    identifier = "Master programmes"
+    name = "Master programmes"
+    url = "/utbildningen/programmet"
+    parent = "Education"
+    weight = 1
 
 [Params]
 description = "Uppsala Datavetare" # Site description. Used in meta description
