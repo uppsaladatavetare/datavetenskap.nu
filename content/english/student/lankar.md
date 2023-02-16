@@ -6,7 +6,7 @@ sidebar: false
 menu: en-Student
 ---
 
-## Studier
+## Studies
 - [Universityadmissions.se](http://www.universityadmissions.se)
 - [The IT-institution](http://www.it.uu.se/)
 - [Find your chedule](https://cloud.timeedit.net/uu/web/schema/)
@@ -16,13 +16,13 @@ menu: en-Student
 
 
 
-## Studentliv
+## Student life
 - [The Nation guide](http://www.nationsguiden.se/en)
 - [Uppsalastudent](http://uppsalastudent.com/en)
 - [Uppsala Union of Engineering and Science Students](http://www.utn.se/)
 
 
-## Bostad
+## Accommodation
 - [Rikshem](https://www.rikshem.se/)
 - [Heimstaden](http://www.heimstaden.com/)
 - [Uppsalahem](http://www.uppsalahem.se/)
