@@ -12,3 +12,5 @@ Nu är det dags att ta en paus från plugget, och det gör vi i form av en spelk
 
 * **NÄR: Torsdag 23/3 runt 18 till sent**
 * **VAR: Sektionshuset vid Ångan (det andra av de två röda husen bortom volleybollplanen)**
+
+För mer se [FB-evenemanget!](https://www.facebook.com/events/1370270000457376/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_friends_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D)

@@ -12,3 +12,5 @@ It’s time to take a break, and we’ll do that with a gaming night! **Thursday
 
 * **WHEN: Thursday March 23 around 18:00 until late**
 * **WHERE: The house of DV section’s room by Ångan (the second of the red houses across the volleyball court)**
+
+For more see the [FB-event!](https://www.facebook.com/events/1370270000457376/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_friends_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D)
