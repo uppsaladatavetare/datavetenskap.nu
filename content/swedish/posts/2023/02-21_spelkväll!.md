@@ -1,0 +1,14 @@
+---
+
+title: Spelkväll!
+date: 2023-02-21 20:01:04
+thumbnail: "/img/2023/gamenight.jpg"
+authors: ["Informationsansvarig", "Studiesocialt ansvarig"]
+tags: 
+  - "Uppsala datavetare"
+
+---
+Nu är det dags att ta en paus från plugget, och det gör vi i form av en spelkväll! **Torsdag den 23/3 från 18:00** är ni välkomna till stora gemensamma rummet i sektionshuset för att hänga och spela lite spel. Det bjuds på tv-spel som Mario Kart, Super Smash Bros och Jackbox, samt lite bräd- och kortspel. Om du har något särskilt annat spel du skulle vilja spela så får du självklart gärna ta med det också!Ta med middag om du vill, vi säljer såklart annars lite göttigt i sektionsrummet som energidryck, Trocadero och Billy’s panpizza! *Även om man inte är så spelsugen så är alla, kandidater liksom masterstudenter, varmt välkomna att komma och hänga! Vi ses!*
+
+* **NÄR: Torsdag 23/3 runt 18 till sent**
+* **VAR: Sektionshuset vid Ångan (det andra av de två röda husen bortom volleybollplanen)**
