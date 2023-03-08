@@ -31,6 +31,7 @@ What is included in the price you are paying is: accommodation from Thursday to 
 * Travel to and from Gotland is done individually.
 
 **The Bachelor program in cs have priority.**
+**A little heads up, the event from Absolt Gotlands part is in Swedish, but don't let that discourage you from applying!**
 
 Here is a link to the [facebook-event](https://www.facebook.com/events/156630360571643?acontext=%7B%22event_action_history%22%3A[%7B%22extra_data%22%3A%22%22%2C%22mechanism%22%3A%22your_upcoming_events_unit%22%2C%22surface%22%3A%22bookmark%22%7D%2C%7B%22extra_data%22%3A%22%22%2C%22mechanism%22%3A%22your_upcoming_events_unit%22%2C%22surface%22%3A%22bookmark%22%7D%2C%7B%22extra_data%22%3A%22%22%2C%22mechanism%22%3A%22your_upcoming_events_unit%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D). 
 
