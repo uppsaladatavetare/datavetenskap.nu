@@ -5,7 +5,8 @@ date: 2023-03-02 12:15:09
 thumbnail: "/img/2023/vollisok23.jpg"
 authors: ["Informationsansvarig"]
 tags: 
-  - "Engagemang;Utn"
+  - "Engagemang"
+  - "Utn"
 
 ---
 Den folkkära Forsränningen och den tillhörande Forsfestivalen skulle aldrig vara möjliga utan en liten armé volontärer som hjälper till i arbetet. Som volontär kan du prova på en massa olika uppdrag för att spicea upp CV:n, och som tack får du mat, läsk, märke och en inbjudan till en tacksittning! Nattvolontärer, flottbyggsvolontärer och ränningsvolontärer får dessutom gratis biljett till ÖG:s champagnegalopp. Forsränningen är ett riksberömt årligt arrangemang av Uppsala teknolog- och naturvetarkår (UTN).
