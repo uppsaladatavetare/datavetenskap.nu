@@ -2,6 +2,7 @@
 
 title: Absolut Gotland - boende & betalning
 date: 2023-03-19 20:43:54
+thumbnail: "/img/2023/far.jpg"
 authors: ["Informationsansvarig"]
 tags: 
   - "Info"

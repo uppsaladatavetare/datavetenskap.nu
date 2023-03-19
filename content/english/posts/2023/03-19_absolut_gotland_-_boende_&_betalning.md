@@ -2,6 +2,7 @@
 
 title: Absolut Gotland - accomodation & payment
 date: 2023-03-19 20:43:59
+thumbnail: "/img/2023/far.jpg"
 authors: ["Informationsansvarig"]
 tags: 
   - "Info"
