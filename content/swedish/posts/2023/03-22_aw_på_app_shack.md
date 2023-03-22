@@ -9,6 +9,8 @@ tags:
   - " PR-amanuens"
 
 ---
+*This event is for swedish-speaking students only!*
+
 Explore the shack!
 
 Välkomna till en kväll hos oss på App Shack!
