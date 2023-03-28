@@ -2,7 +2,7 @@
 
 title: Sök till Rallykå 2023
 date: 2023-02-19 17:20:06
-thumbnail: "/img/2023/rebus22.png"
+thumbnail: "/img/2023/rebus23.png"
 authors: ["Informationsansvarig"]
 tags: 
   - "Engagemang"
