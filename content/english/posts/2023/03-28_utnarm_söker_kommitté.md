@@ -12,7 +12,7 @@ tags:
 ---
 Utnarm has opened its committee search.
 
-**Utnarm is an autumn event for students and companies to make connections and consists of two weeks with lots of events and is closed with a job fair.
+**Utnarm is** an autumn event for students and companies to make connections and consists of two weeks with lots of events and is closed with a job fair.
 
 **The positions that can be applied for are:** 
 * Recruitment
