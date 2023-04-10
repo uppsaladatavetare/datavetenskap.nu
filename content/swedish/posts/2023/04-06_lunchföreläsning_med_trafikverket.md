@@ -17,4 +17,6 @@ På vår lunchföresläsning berättar vi mer om Trafikverket och vår IT-organi
 **NÄR?** Torsdag 20/4\
 **VAR?** Ångströmlaboratoriet, håll er uppdaterade i Facebookevenemanget för salnummer
 
+[ANMÄLAN](https://forms.gle/izaJoCRTtaNFRvWLA)
+
 [Facebookevenemang](https://fb.me/e/2Krr19qjg)
