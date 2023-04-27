@@ -15,9 +15,13 @@ Ett mord har begåtts och det beryktade ovverådet bestående av BioMed, DV och 
 Samtidigt som man skålar och skrattar med andra ställer man sig frågan; *“Kan hen har gjort det, är hen skyldig?”*. Var det Jack Senap med Calculus i microrummet? Var det Patricia Påfågel med tentaångest på BMC? Kanske var det Scooby Doo med pipetten i ekoparken? 🤔 Alla är misstänkta och bara en sittning med de tre slugaste sektionerna kan finna svaret! 👻
 
 **Tema: "Murder Mystery"**
+
 **[Anmälan](https://forms.gle/LCdu5PJ9siRZrxkL6)!**
+
 **När: 18-dk**
+
 **Pris: 110 kr**
+
 **Ingår i biljettpris:**
 * Mat och välkomstdryck
 * Märke
