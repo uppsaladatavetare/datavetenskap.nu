@@ -2,7 +2,7 @@
 
 title: Studieråd Måndag 22/5!
 date: 2023-05-18 11:07:50
-authors: [""]
+authors: ["Studierådsordförande"]
 tags: 
   - ""
 

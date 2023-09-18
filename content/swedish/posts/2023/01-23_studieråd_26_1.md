@@ -5,7 +5,7 @@ date: 2023-01-23 08:41:42
 thumbnail: 
 authors: ["Studierådsordsförande"]
 tags: 
-  - "Uppsala datavetare"
+  - ""
 
 ---
 Här kommer årets första studieråd! Jag vet vad ni tänker, "Men, varför ska jag gå till studierådet? Jag kan ju bara stanna hemma och titta på min favoritserie istället". Men tänk på det här, hur många gånger har ni sagt "Jag önskar jag hade frågat om det där på studierådet" efteråt? 
