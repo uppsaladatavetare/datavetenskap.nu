@@ -1,6 +1,6 @@
 ---
-title: Studieråd Torsdag 22/5!
-date: 2023-05-18 11:07:50
+title: Studieråd Torsdag 21/9!
+date: 2023-09-18 11:07:50
 authors: ["Studierådsordförande"]
 tags:
   - ""
