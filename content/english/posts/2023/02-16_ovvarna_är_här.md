@@ -5,8 +5,9 @@ date: 2023-02-16 13:19:40
 thumbnail: "/img/2023/ovve22.jpg"
 authors: ["Informationsansvarig"]
 tags: 
-  - "Info"
   - "Uppsala datavetare"
+  - "Info"
+  - "Alla"
 
 ---
 Hi computer scientists, the overalls as you know have finally arrived! 

@@ -3,10 +3,10 @@
 title: BÄRs och fulsprit i DVolvon
 date: 2023-04-05 12:12:02
 thumbnail: "/img/2023/dvbarmicro.jpg"
-authors: ["Informationsansvarig"]
+authors: ["Klubbmästare (senior)", "Klubbmästare (junior)", "Informationsansvarig"]
 tags: 
-  - "Info"
-  - "Alla"
+  - "Dvkv"
+  - "Evenemang"
 
 ---
 On April 15th DV and BÄR are going to take over microrummet at Ångan! The theme is ["EPARAGGARE"](https://en.wikipedia.org/wiki/Raggare)!!

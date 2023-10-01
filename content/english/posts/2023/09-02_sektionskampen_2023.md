@@ -5,8 +5,8 @@ date: 2023-09-02 14:19:53
 thumbnail: "/img/2023/sektionsk.png"
 authors: ["Informationsansvarig"]
 tags: 
-  - "Alla"
   - "Sektionskampen"
+  - "UTN"
 
 ---
 Get ready for the 2023 Sektionskampen 2023! 

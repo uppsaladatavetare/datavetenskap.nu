@@ -3,8 +3,9 @@
 title: Spelkväll!
 date: 2023-02-21 20:01:04
 thumbnail: "/img/2023/gamenight.jpg"
-authors: ["Informationsansvarig", "Studiesocialt ansvarig"]
+authors: ["Studiesocialt ansvarig", "Informationsansvarig"]
 tags: 
+  - "Evenemang"
   - "Uppsala datavetare"
 
 ---

@@ -5,8 +5,9 @@ date: 2023-02-16 13:07:20
 thumbnail: "/img/2023/ovve22.jpg"
 authors: ["Informationsansvarig"]
 tags: 
-  - "Info"
   - "Uppsala datavetare"
+  - "Info"
+  - "Alla"
 
 ---
 Hej alla dv:are, nu har som ni sett har overallerna kommit! 

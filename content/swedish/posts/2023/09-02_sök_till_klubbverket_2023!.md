@@ -3,10 +3,11 @@
 title: Sök till klubbverket 2023!
 date: 2023-09-02 15:08:48
 thumbnail: "/img/2023/dvkvsok.jpg"
-authors: ["Informationsansvarig", "Klubbmästarna"]
+authors: ["Klubbmästare (senior)", "Klubbmästare (junior)", "Informationsansvarig"]
 tags: 
   - "Engagemang"
-  - "dvkv"
+  - "Dvkv"
+  - "Uppsala datavetare"
 
 ---
 Vill du vara med och förgylla DV:s vardag i form av makalösa event? Är du en baddare på PR, grafik, eller självutnämnd spexlegend? Vill du få chansen att träffa andra glada och taggade människor från andra program? Då borde du söka till klubbverket DVKV!! Vi arrangerar allt ifrån pubrundor, ful- och finsittningar, och givetvis Capseisa. Som klubbverkare får du vara med och arrangera dessa evenemang och ha en hel massa skoj under tidens gång.

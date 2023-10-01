@@ -5,8 +5,8 @@ date: 2023-09-13 18:37:07
 thumbnail: "/img/2023/dvmerch.png"
 authors: ["Informationsansvarig"]
 tags: 
+  - "Uppsala datavetare"
   - "Info"
-  - "Alla"
 
 ---
 ### Köp din helt egna DV-merch!

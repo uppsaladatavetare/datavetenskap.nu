@@ -5,8 +5,8 @@ date: 2023-02-19 17:20:06
 thumbnail: "/img/2023/rebus23.png"
 authors: ["Informationsansvarig"]
 tags: 
+  - "UTN"
   - "Engagemang"
-  - "Utn"
 
 ---
 Nu är det dags, det ni alla har väntat på! 

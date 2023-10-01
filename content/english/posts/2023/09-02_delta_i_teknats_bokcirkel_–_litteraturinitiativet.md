@@ -6,7 +6,7 @@ thumbnail: "/img/2023/li.jpg"
 authors: ["Informationsansvarig"]
 tags: 
   - "Info"
-  - "Alla"
+  - "Engagemang"
 
 ---
 Do you want to improve your communication skills and participate in a book circle at the same time? Sign up for litteraturinitiativet, Teknat's book circle!

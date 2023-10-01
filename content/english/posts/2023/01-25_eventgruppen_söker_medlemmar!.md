@@ -5,9 +5,8 @@ date: 2023-01-25 12:10:21
 thumbnail: "/img/2023/eventg23.jpg"
 authors: ["Informationsansvarig"]
 tags: 
+  - "UTN"
   - "Engagemang"
-  - "Alla"
-  - "Utn"
 
 ---
 

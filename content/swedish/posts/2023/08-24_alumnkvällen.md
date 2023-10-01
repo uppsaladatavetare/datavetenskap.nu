@@ -4,7 +4,8 @@ title: Alumnkvällen
 date: 2023-08-24 01:44:05
 authors: ["Klubbmästarna"]
 tags: 
-  - "Info"
+  - "Uppsala datavetare"
+  - "Evenemang"
 
 ---
 Den 1/9e är det dags för alumnkväll! 

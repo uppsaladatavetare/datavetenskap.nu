@@ -5,7 +5,9 @@ date: 2023-03-07 15:28:23
 thumbnail: "/img/2023/AGBann23.png"
 authors: ["Informationsansvarig"]
 tags: 
-  - "Info"
+  - "Absolut Gotland"
+  - "Uppsala datavetare"
+  - "Alla"
 
 ---
 The wait is over! Leave your computers at home and attend **Sweden's greatest student fest**!

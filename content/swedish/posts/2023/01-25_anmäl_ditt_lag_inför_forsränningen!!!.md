@@ -5,9 +5,10 @@ date: 2023-01-25 21:29:04
 thumbnail: "/img/2023/paintforslag.png"
 authors: ["Informationsansvarig"]
 tags: 
-  - "Info"
-  - "Alla"
+  - "UTN"
+  - "Evenemang"
   - "Uppsala datavetare"
+  - "Tävling"
 
 ---
 *English below*

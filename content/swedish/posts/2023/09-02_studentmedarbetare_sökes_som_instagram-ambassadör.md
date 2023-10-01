@@ -6,6 +6,7 @@ thumbnail: "/img/2023/smassia.png"
 authors: ["Informationsansvarig"]
 tags: 
   - "Jobb"
+  - "Alla"
 
 ---
 Är du intresserad av sociala medier och är en duktig innehållsskapare? Vi söker nu efter kreativa studenter för att få hjälp med att marknadsföra Teknats utbildningar och driva vår Instagram @uppsalastudent_teknat.

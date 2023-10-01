@@ -5,7 +5,7 @@ date: 2023-02-12 17:37:45
 thumbnail: "/img/2023/kokbarsok.png"
 authors: ["Informationsansvarig"]
 tags: 
-  - "Utn"
+  - "UTN"
   - "Engagemang"
 
 ---

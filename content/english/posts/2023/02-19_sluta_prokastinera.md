@@ -5,8 +5,9 @@ date: 2023-02-19 17:08:34
 thumbnail: "/img/2023/gdnh.png"
 authors: ["Informationsansvarig"]
 tags: 
+  - "UTN"
   - "Info"
-  - "Utn"
+  - "Alla"
 
 ---
 UTN together with Student Health invites you to a lecture with the theme: *"Do it now - stop procrastinating"*. The lecture will give you advice and tips on how to stop procrastinating and start doing it now! 

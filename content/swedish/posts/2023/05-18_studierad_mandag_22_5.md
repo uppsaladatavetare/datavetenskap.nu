@@ -2,9 +2,9 @@
 
 title: Studieråd Måndag 22/5!
 date: 2023-05-18 11:07:50
-authors: ["Studierådsordförande"]
+authors: ["Studierådsordsförande", "Informationsansvarig"]
 tags: 
-  - ""
+  - "Info"
 
 ---
 Välkommen till årets tredje och sista studieråd innan sommaren! Under det här studierådet kommer vi diskutera kurserna som avslutades i och med period 3, Våren 2023. Även om du själv inte har någon åsikt om kurserna som du skulle vilja förmedla så går det självklart bra att sitta med och lyssna. Det kommer finnas fika!!

@@ -5,8 +5,8 @@ date: 2023-03-02 12:15:04
 thumbnail: "/img/2023/vollisok23.jpg"
 authors: ["Informationsansvarig"]
 tags: 
+  - "UTN"
   - "Engagemang"
-  - "Utn"
 
 ---
 The beloved River Rafting and River Festival would never be possible without a small army of volunteers helping with the work. As a volunteer, you can try a ton of different tasks to spice up your resume, and as a thanks for your help you get food, soda, a patch, and an invite to a thanks-gasque! Night volonteers, raft building volunteers, and all volunteers working during the Rafting itself will also receive free tickets to ÖG nation's Champagne Gallop! The River Rafting is an event famous across the country by the Uppsala Union of Engineering and Science Students (UTN).

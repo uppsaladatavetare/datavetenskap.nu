@@ -5,8 +5,8 @@ date: 2023-04-05 12:12:05
 thumbnail: "/img/2023/dvbarmicro.jpg"
 authors: ["Informationsansvarig"]
 tags: 
-  - "Info"
-  - "Alla"
+  - "Dvkv"
+  - "Evenemang"
 
 ---
 Den 15 april intar DV och BÄR Ångans microrum! Temat på sittningen är inget mindre än EPARAGGARE!! 

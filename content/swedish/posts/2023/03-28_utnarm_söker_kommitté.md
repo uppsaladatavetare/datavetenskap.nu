@@ -4,9 +4,8 @@ title: Utnarm söker kommitté
 date: 2023-03-28 08:13:59
 thumbnail: "/img/2023/kommite23.png"
 authors: ["Informationsansvarig"]
-tags: 
-  - "Info"
-  - "Utn"
+tags:
+  - "UTN"
   - "Engagemang"
 
 ---

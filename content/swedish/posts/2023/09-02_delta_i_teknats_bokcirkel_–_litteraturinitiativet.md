@@ -6,7 +6,7 @@ thumbnail: "/img/2023/li.jpg"
 authors: ["Informationsansvarig"]
 tags: 
   - "Info"
-  - "Alla"
+  - "Engagemang"
 
 ---
 Vill du bli bättre på att kommunicera och samtidigt få delta i en bokcirkel? Anmäl dig till litteraturinitiativet, teknats bokcirkel!

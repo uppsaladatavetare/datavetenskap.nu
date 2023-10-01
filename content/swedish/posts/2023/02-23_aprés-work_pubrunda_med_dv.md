@@ -5,6 +5,7 @@ date: 2023-02-23 12:23:06
 thumbnail: "/img/2023/pubmar.jpg"
 authors: ["Klubbmästare (senior)", "Klubbmästare (junior)", "Informationsansvarig"]
 tags: 
+  - "Pubrunda"
   - "Dvkv"
   - "Uppsala datavetare"
 

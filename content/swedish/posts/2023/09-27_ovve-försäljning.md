@@ -4,6 +4,7 @@ title: Ovve-försäljning
 date: 2023-09-27 17:32:28
 authors: ["Informationsansvarig"]
 tags: 
+  - "Uppsala datavetare"
   - "Info"
 
 ---

@@ -5,8 +5,8 @@ date: 2023-02-12 17:45:53
 thumbnail: "/img/2023/kokbarsok.png"
 authors: ["Informationsansvarig"]
 tags: 
+  - "UTN"
   - "Engagemang"
-  - "Utn"
 
 ---
 The Pub Crew is the part of Uppsala Union of Engineering and Science Students that handles the entertainment and serving at pubs and rentals at Uthgård, and we also fix the Battle of the Sections. As one of the hosts in the Pub Crew you will be involved in the work in both the kitchen and bar during different events hosted by the Pub Crew.

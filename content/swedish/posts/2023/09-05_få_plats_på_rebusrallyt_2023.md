@@ -5,8 +5,10 @@ date: 2023-09-05 18:18:58
 thumbnail: "/img/2023/gilDVwgR.png"
 authors: ["Informationsansvarig"]
 tags: 
-  - "Info"
-  - "Alla"
+  - "UTN"
+  - "Evenemang"
+  - "Uppsala datavetare"
+  - "Tävling"
 
 ---
 En lycklig DVare har möjligheten att vinna en garanterad plats åt sitt lag till Rebusrallyt! Platsen kommer **lottas ut**, dvs vem som helst på DV har chansen att vinna. Flera medlemmar från ett och samma lag kan delta om platsen, så länge de tillhör DV sektionen! 

@@ -6,6 +6,7 @@ thumbnail: "/img/2023/caseclub.png"
 authors: ["Informationsansvarig"]
 tags: 
   - "Info"
+  - "Engagemang"
 
 ---
 Uppsala Case Club är en studentdriven caseförening vid Uppsala universitet som vill ge studenterna en plattform för att utveckla sina färdigheter i problemlösning och strategiskt tänkande.

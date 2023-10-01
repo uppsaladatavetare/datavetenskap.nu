@@ -5,8 +5,7 @@ date: 2023-03-28 08:13:55
 thumbnail: "/img/2023/kommite23.png"
 authors: ["Informationsansvarig"]
 tags: 
-  - "Info"
-  - "Utn"
+  - "UTN"
   - "Engagemang"
 
 ---

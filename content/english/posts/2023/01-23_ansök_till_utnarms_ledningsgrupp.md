@@ -5,8 +5,7 @@ date: 2023-01-23 10:56:44
 thumbnail: "/img/2023/ledning.jpg"
 authors: ["Informationsansvarig"]
 tags: 
-  - "Info"
-  - "Utn"
+  - "UTN"
   - "Engagemang"
 
 ---

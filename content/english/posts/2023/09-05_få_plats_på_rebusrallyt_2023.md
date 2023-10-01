@@ -5,8 +5,10 @@ date: 2023-09-05 18:18:56
 thumbnail: "/img/2023/gilDVwgR.png"
 authors: ["Informationsansvarig"]
 tags: 
-  - "Info"
-  - "Alla"
+  - "UTN"
+  - "Evenemang"
+  - "Uppsala datavetare"
+  - "Tävling"
 
 ---
 One lucky DV has the opportunity to win a guaranteed place for their team in the Rebusrally! The place will be **drawn**, which means that anyone from DV has the chance to win. More than one member from the same team can compete for the place, as long as they belong to the DV section! 

@@ -3,9 +3,9 @@
 title: Crayfish Party 2023
 date: 2023-08-24 02:03:57
 thumbnail: "/img/2023/kraftis23.jpg"
-authors: ["Klubbmästarna"]
+authors: ["Klubbmästare (senior)", "Klubbmästare (junior)", "Informationsansvarig"]
 tags: 
-  - "Info"
+  - "Dvkv"
   - "Evenemang"
 
 ---

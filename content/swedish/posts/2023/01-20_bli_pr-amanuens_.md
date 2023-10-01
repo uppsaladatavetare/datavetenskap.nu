@@ -5,9 +5,9 @@ date: 2023-01-20 08:31:31
 thumbnail: "/img/2023/logoUU.png"
 authors: ["Informationsansvarig"]
 tags: 
-  - "Info"
   - "PR-amanuens"
   - "Jobb"
+  - "Info"
 
 ---
 *English below*

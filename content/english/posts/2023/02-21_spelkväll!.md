@@ -5,6 +5,7 @@ date: 2023-02-21 20:03:48
 thumbnail: "/img/2023/gamenight.jpg"
 authors: ["Informationsansvarig", "Studiesocialt ansvarig"]
 tags: 
+  - "Evenemang"
   - "Uppsala datavetare"
 
 ---
