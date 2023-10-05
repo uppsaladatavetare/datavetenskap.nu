@@ -23,6 +23,6 @@ Allt om storlek och priser står i formuläret!
 
 [Beställ här!](https://forms.gle/nsZmH5GchTyuet2X9) 
 
-Du har t.o.m. den **1 oktober** på dig att fylla i formuläret. Vi kommer att informera om de slutgiltiga priserna efter den 1 oktober, **så vänta med att betala**. Då har ni ungefär en vecka på er att betala, **deadline för betalning är den 8 oktober**.
+Du har t.o.m. den **1 oktober** på dig att fylla i formuläret. Vi kommer att informera om de slutgiltiga priserna efter den 1 oktober, **så vänta med att betala**. Då har ni ungefär en vecka på er att betala, **deadline för betalning är den 15 oktober**.
 
 Frågor? Maila *dv-info@utn.se*

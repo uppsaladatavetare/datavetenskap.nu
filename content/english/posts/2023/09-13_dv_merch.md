@@ -23,6 +23,6 @@ All sizes and prices are in the form!
 
 [Order here!](https://forms.gle/nsZmH5GchTyuet2X9) 
 
-You have until **1 October** to fill in the form. We will inform you of the final prices after October 1, **so please wait with making the payment** and you will have about a week to pay, **deadline for payment is October 8**.
+You have until **1 October** to fill in the form. We will inform you of the final prices after October 1, **so please wait with making the payment** and you will have about a week to pay, **deadline for payment is October 15**.
 
 Any questions? Email *dv-info@utn.se*
