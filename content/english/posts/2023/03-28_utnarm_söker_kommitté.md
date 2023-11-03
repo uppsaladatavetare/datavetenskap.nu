@@ -28,3 +28,5 @@ Utnarm has opened its committee search.
 The applications are open **27/3 - 5/4**. You can find the [application](https://apply.utn.se/) here. 
 
 More information is in the [Facebook-event](https://fb.me/e/Q6Yd0xiQ).
+
+*Utnarm is an event by Uppsala Union of Engineering and Science Students!*

@@ -18,8 +18,10 @@ Som eventkoordinator är du med och genomför olika former av företagsevenemang
 
 Här hittar du [postbeskrivningar.](https://drive.google.com/.../0B8uSEPFZ2uc7RU1OMlVpNGdieU0) 
 
-Har du frågor angående eventgruppen? Tveka inte att höra av dig till UTN:s näringslivsansvarig tillika gruppledare för eventgruppen på na@utn.se
+Har du frågor angående eventgruppen? Tveka inte att höra av dig till UTN:s näringslivsansvarig tillika gruppledare för eventgruppen på *na@utn.se*
 
 #### Sök senast 2:a februari!
 
-Eventgruppen är en arbetsgrupp inom Uppsala teknolog- och naturvetarkår.
+*Eventgruppen är en arbetsgrupp inom Uppsala teknolog- och naturvetarkår.*
+
+//*UTN*

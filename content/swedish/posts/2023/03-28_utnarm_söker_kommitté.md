@@ -28,3 +28,5 @@ Utnarm har öppnat sitt kommittésök.
 Ansökan är öppen **27/3 - 5/4**. Här hittar du [ansökan](https://apply.utn.se/).
 
 Mer information finns i [Facebookevenemanget](https://fb.me/e/Q6Yd0xiQ).
+
+*Utnarm är ett arrangemang av Uppsala teknolog- och naturvetarkår.*

@@ -16,3 +16,5 @@ Hustomtar är en ny roll för 2023 och kommer att ansvara för att organisera oc
 **Ansök --> [HÄR](https://apply.utn.se/) <--**
 
 Något du undrar? Kontakta studiebevakare med ansvar för studiesociala frågor: *soc@utn.se*
+
+//*UTN*

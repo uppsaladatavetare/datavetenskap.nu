@@ -27,3 +27,5 @@ Har du andra frågor som rör söket? Hör av dig till någon av...
 * **Klubbmästaren** på klubbmastare@utn.se 
 * **Barmästaren** på barmastare@utn.se 
 * **Eventmästaren** på eventmastare@utn.se!
+
+//*UTN*

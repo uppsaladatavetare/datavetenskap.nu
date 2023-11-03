@@ -17,3 +17,5 @@ UTN together with Student Health invites you to a lecture with the theme: *"Do i
 **Where: Ångströmlaboratoriet in Eva von Bahr**
 
 For more information check out the [FB-event](https://fb.me/e/2IKQvHVdg).
+
+*The lecture is an arrangement of Uppsala Union of Engineering and Science Students and the Student Health Service.*

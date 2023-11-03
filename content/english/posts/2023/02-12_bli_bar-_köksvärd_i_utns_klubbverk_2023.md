@@ -26,3 +26,5 @@ Do you have any other questions? Contact one of the following...
 * **Head of the Pub Crew** at klubbmastare@utn.se
 * **Event Master** at eventmastare@utn.se 
 * **Head of the bar** at barmastare@utn.se!
+
+//*UTN*

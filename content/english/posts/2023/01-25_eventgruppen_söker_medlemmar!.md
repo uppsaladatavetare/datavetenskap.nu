@@ -18,8 +18,10 @@ As an Event Coordinator you participate in various forms of corporate events on 
 
 Here you find the [position descriptions.](https://drive.google.com/.../0B8uSEPFZ2uc7RU1OMlVpNGdieU0)
 
-If you have any questions about the Event Group, do not hesitate to contact UTN’s Head of Corporate Relations and group leader for the Event Group at na@utn.se
+If you have any questions about the Event Group, do not hesitate to contact UTN’s Head of Corporate Relations and group leader for the Event Group at *na@utn.se*
 
 #### Apply before February 2nd!
 
-The Event Group is a working group of Uppsala Union of Engineering and Science Students.
+*The Event Group is a working group of Uppsala Union of Engineering and Science Students.*
+
+//*UTN*

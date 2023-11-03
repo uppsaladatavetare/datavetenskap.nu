@@ -16,3 +16,5 @@ The application for the puzzle hunt committee has officially opened! The applica
 Don't forget to follow the puzzle hunt [Instagram](https://www.instagram.com/rebusrallyt/) and on [Facebook](https://www.facebook.com/RebusrallyUtn/?locale=sv_SE).
 
 Here's the [application](https://apply.utn.se/).
+
+//*UTN o Rebusrallyt*

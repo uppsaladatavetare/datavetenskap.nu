@@ -16,3 +16,5 @@ Söket till Rallykå 2023 har officiellt öppnat! Söket stänger **20/2**!
 Glöm inte att följa Rebusrallyt på [Instagram](https://www.instagram.com/rebusrallyt/) och på [Facebook](https://www.facebook.com/RebusrallyUtn/?locale=sv_SE). 
 
 Här är länk till [ansökan](https://apply.utn.se/).
+
+//*UTN o Rebusrallyt*

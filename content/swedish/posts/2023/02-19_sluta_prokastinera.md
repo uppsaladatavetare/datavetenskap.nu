@@ -17,3 +17,5 @@ UTN tillsammans med studenthälsan bjuder in till en föreläsning med temat: *"
 **Var: Ångströmlaboratoriet i Eva von Bahr**
 
 Se mer information på [FB-evemenmanget](https://fb.me/e/2IKQvHVdg).
+
+*Föreläsningen är ett arrangemang av Uppsala teknolog- och naturvetarkår och Studenthälsan.*

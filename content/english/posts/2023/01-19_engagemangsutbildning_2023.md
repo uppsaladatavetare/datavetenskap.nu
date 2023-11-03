@@ -16,8 +16,8 @@ UTN arranges an evening for Teknat students who would like to know more about ho
 
 On Wednesday January 25th at 17:30, the introduction will be held in Heinz-Otto Kreiss at Ångan. Afterwards, a fair is organized outside the hall where you will be able to ask various stakeholders about their event.
 
-There is a limited number of places, the first 100 who register via this link will receive a hot meal. All sosm get a place receive a confirmation email. Link: https://forms.gle/EjJ8A8eoiFQLAu7x7
+There is a limited number of places, the first 100 who register via this link will receive a hot meal. All sosm get a place receive a confirmation email. [Link!](https://forms.gle/EjJ8A8eoiFQLAu7x7)
 
-The involment introduction is an arrangement of Uppsala Union of Engineering and Science Students 
+Here is also the link to the [facebook-event](https://fb.me/e/2occZIdmz).
 
-Here is also the link to the facebook-event: https://fb.me/e/2occZIdmz 
+*The involment introduction is an arrangement of Uppsala Union of Engineering and Science Students!*

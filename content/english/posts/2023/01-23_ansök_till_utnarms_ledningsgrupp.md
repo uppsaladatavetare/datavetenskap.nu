@@ -24,9 +24,8 @@ As the Convenor for Utnarm you will be part of the management team and will for 
 
 ***It is a requirement to be able to speak and read Swedish in the management team. However, we encourage you to apply to the committee instead. We look forward to your applications later on!***
 
-You can find more info in the positions descriptions:
-https://drive.google.com/.../1T7LR2Q7Gg-7mO...
-
-Link to the applications: https://apply.utn.se/
+Link to the applications: [apply.utn](https://apply.utn.se/)
 
 If you have any questions, feel free to email projectmanager@utnarm.se or write to Utnarm on Facebook.
+
+//*UTN*

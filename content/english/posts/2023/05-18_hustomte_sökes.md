@@ -16,3 +16,5 @@ House elfs are a new role for 2023 and will be responsible for organizing and su
 **Apply --> [HERE](https://apply.utn.se/) <--**
 
 Any questions? Contact the study supervisor responsible for study social issues: *soc@utn.se*.
+
+//*UTN*
