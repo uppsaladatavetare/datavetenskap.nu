@@ -20,7 +20,7 @@ The colour of the overalls indicates which programme you are studying, we at DV 
 4. On the left leg, you sew on your name (or nickname), you can also swap parts of the legs with close friends. 
 5. You swap pockets with a person you've made out with (if both of you were wearing your overalls).
 6. On the behind, mark things you don't like. 
-7. The collar is exchanged with someone you are in a relationship with.
+7. The collar is exchanged with someone you have had intercourse with while wearing your overalls.
 
 *Parts of the overalls that are exchanged are usually signed!*
 
