@@ -20,7 +20,7 @@ Färgen på overallen indikerar vilket program man läser, vi på DV har en klar
 4. På vänster ben syr du på ditt namn (eller smeknamn), delar av benen kan du även byta med nära vänner. 
 5. Fickor byter du med person du hånglat med (gäller ifall båda hade på sig sin ovve).
 6. På baken sätter du märken till sådant du ogillar. 
-7. Kragen byter du med någon du är i ett förhållande med.
+7. Kragen byter du med någon du haft samlag med i overall.
 
 *Delar på ovven som byts brukar signeras!*
 
