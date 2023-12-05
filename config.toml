@@ -54,17 +54,23 @@ identifier = "Student"
 name = "Student"
 weight = 2
   [[languages.sv.menu.main]]
+    identifier = "Ovveguide"
+    name = "Ovveguide"
+    url = "/student/ovveguide"
+    parent = "Student"
+    weight = 1
+  [[languages.sv.menu.main]]
     identifier = "Ordlista"
     name = "Ordlista"
     url = "/student/ordlista"
     parent = "Student"
-    weight = 1
+    weight = 2
   [[languages.sv.menu.main]]
     identifier = "Länkar"
     name = "Länkar"
     url = "/student/lankar"
     parent = "Student"
-    weight = 2
+    weight = 3
 [[languages.sv.menu.main]]
 identifier = "Utbildningen"
 name = "Utbildningen"
@@ -121,17 +127,23 @@ identifier = "en-Student"
 name = "Student"
 weight = 3
   [[languages.en.menu.main]]
+    identifier = "en-Ovveguide"
+    name = "Overall-guide"
+    url = "/en/student/Ovveguide"
+    parent = "en-Student"
+    weight = 1
+  [[languages.en.menu.main]]
     identifier = "en-Ordlista"
     name = "Glossary"
     url = "/en/student/ordlista"
     parent = "en-Student"
-    weight = 1
+    weight = 2
   [[languages.en.menu.main]]
     identifier = "en-Länkar"
     name = "Important links"
     url = "/en/student/lankar"
     parent = "en-Student"
-    weight = 2
+    weight = 3
 [[languages.en.menu.main]]
 identifier = "en-Utbildningen"
 name = "Education"
