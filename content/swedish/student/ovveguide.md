@@ -3,10 +3,7 @@
 title: Ovveguide
 date: 2023-11-15 09:26:32
 authors: ["Informationsansvarig"]
-tags: 
-  - "Info"
-  - "Alla"
-  - "Uppsala datavetare"
+toc: false
 
 ---
 Studentoverallen även känd som fulfrack används på mer informella studentevenemang, som exempelvis fulsittningar, pubrundor och AG/Sjöslaget (dvs. studentresor). 

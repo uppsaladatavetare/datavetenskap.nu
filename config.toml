@@ -71,6 +71,12 @@ weight = 2
     url = "/student/lankar"
     parent = "Student"
     weight = 3
+  [[languages.sv.menu.main]]
+    identifier = "Kontaktformulär"
+    name = "Studiesocialt kontaktformulär"
+    url = "/student/kontaktformular"
+    parent = "Student"
+    weight = 4
 [[languages.sv.menu.main]]
 identifier = "Utbildningen"
 name = "Utbildningen"
@@ -144,6 +150,12 @@ weight = 3
     url = "/en/student/lankar"
     parent = "en-Student"
     weight = 3
+  [[languages.en.menu.main]]
+    identifier = "en-Kontaktformulär"
+    name = "Contact the Study Liaison"
+    url = "/en/student/kontaktformular"
+    parent = "en-Student"
+    weight = 4
 [[languages.en.menu.main]]
 identifier = "en-Utbildningen"
 name = "Education"
