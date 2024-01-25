@@ -4,8 +4,8 @@
     {{ range .Pages.ByParam "event_date" }}
         {{ $eventDateString := .Param "event_date" }}
         {{ $eventDate := time $eventDateString }}
-        {{ $weekAgo := now.AddDate 0 0 -7 }}
-        {{ if ge $eventDate $weekAgo }}
+        {{ $maxAge := now.AddDate 0 0 -2 }}
+        {{ if ge $eventDate $maxAge }}
             <div class="event-box">
                 {{ with .Resources.GetMatch "featured-image" }}
                     <div class="event-image">

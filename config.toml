@@ -166,6 +166,11 @@ identifier = "en-Utbildningen"
 name = "Education"
 weight = 4
 url = "/en/utbildningen/programmet"
+[[languages.en.menu.main]]
+identifier = "events"
+name = "Events"
+url = "/events/"
+weight = 5
 
 
 [Params]
