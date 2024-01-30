@@ -2,7 +2,7 @@
 
 title: Utlottning av sektionsflotta till Forsränningen!
 date: 2024-01-30 16:44:04
-thumbnail: "/img/2024/fors.png"
+thumbnail: "/img/2024/Fors.png"
 authors: ["Informationsansvarig"]
 tags: 
   - "Alla"

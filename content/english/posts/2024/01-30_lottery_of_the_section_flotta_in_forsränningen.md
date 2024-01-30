@@ -2,7 +2,7 @@
 
 title: Lottery of the section flotta in forsränningen
 date: 2024-01-30 16:44:59
-thumbnail: "/img/2024/fors.png"
+thumbnail: "/img/2024/Fors.png"
 authors: ["Informationsansvarig"]
 tags: 
   - "Alla"
