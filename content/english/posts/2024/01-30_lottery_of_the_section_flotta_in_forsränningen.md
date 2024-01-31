@@ -1,6 +1,6 @@
 ---
 
-title: Lottery of the section flotta in forsränningen
+title: Lottery of the section raft in forsränningen
 date: 2024-01-30 16:44:59
 thumbnail: "/img/2024/Fors.png"
 authors: ["Informationsansvarig"]
@@ -11,7 +11,7 @@ tags:
 
 ---
 Hello everyone in DV!
-This year we have the opportunity to raffle off a section fleet to @forsränningnen. If you feel compelled to be the captain of this fleet through Fyrisån, just fill out the form below.
+This year we have the opportunity to raffle off a section raft to @forsränningnen. If you feel compelled to be the captain of this raft through Fyrisån, just fill out the form below.
 
 You can have 2-4 people in the raft, and you can choose between a regular raft or an environmental raft, which is a raft whose bottom is old from previous years, which is still fine to use this year.
 
