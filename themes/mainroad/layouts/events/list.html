@@ -1,0 +1,26 @@
+{{ define "main" }}
+<h1>Upcoming Events</h1>
+<div class="events-container">
+    {{ range .Pages.ByParam "event_date" }}
+        {{ $eventDateString := .Param "event_date" }}
+        {{ $eventDate := time $eventDateString }}
+        {{ $maxAge := now.AddDate 0 0 -2 }}
+        {{ if ge $eventDate $maxAge }}
+            <div class="event-box">
+                {{ with .Resources.GetMatch "featured-image" }}
+                    <div class="event-image">
+                        <img src="{{ .RelPermalink }}" alt="{{ $.Title }}">
+                    </div>
+                {{ end }}
+                <div class="event-details">
+                    <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+                    <p class="event-date">{{ $eventDate.Format "January 2, 2006" }}</p>
+                    <p>{{ .Summary }}</p>
+                </div>
+            </div>
+        {{ end }}
+    {{ else }}
+        <p>No upcoming events.</p>
+    {{ end }}
+</div>
+{{ end }}

@@ -93,6 +93,11 @@ weight = 2
     url = "/utbildningen/efter-utbildningen"
     parent = "Utbildningen"
     weight = 2
+[[languages.sv.menu.main]]
+identifier = "events"
+name = "Events"
+url = "/events/"
+weight = 5
 
 [languages.en.menu]
 [[languages.en.menu.main]]
@@ -161,6 +166,11 @@ identifier = "en-Utbildningen"
 name = "Education"
 weight = 4
 url = "/en/utbildningen/programmet"
+[[languages.en.menu.main]]
+identifier = "events"
+name = "Events"
+url = "/events/"
+weight = 5
 
 
 [Params]

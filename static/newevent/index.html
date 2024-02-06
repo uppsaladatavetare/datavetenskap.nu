@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Skapa nytt inlägg</title>
+
+  <!-- Latest compiled and minified CSS -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/css/bootstrap.min.css"
+    integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+  <!-- Markdown editor -->
+  <link rel="stylesheet" href="https://unpkg.com/easymde/dist/easymde.min.css">
+  <script src="https://unpkg.com/easymde/dist/easymde.min.js"></script>
+</head>
+
+
+<script>
+    
+  // Hacky method to download a file from a string
+  function download(filename, text) {
+    // create a new anchor element
+    const element = document.createElement('a');
+
+    // set the anchor's href attribute to contain the text to be downloaded
+    element.setAttribute('href', 'data:text/plain;charset=utf-8,' + encodeURIComponent(text));
+
+    // set the anchor's download attribute to the filename that will be used to save the text
+    element.setAttribute('download', filename);
+
+    // hide the anchor
+    element.style.display = 'none';
+
+    // add the anchor to the document body
+    document.body.appendChild(element);
+
+    // click the anchor to download the text
+    element.click();
+
+    // remove the anchor from the document body
+    document.body.removeChild(element);
+  }
+
+  var easyMDE; // Declare easyMDE globally
+
+  document.addEventListener('DOMContentLoaded', function() {
+    easyMDE = new EasyMDE({ element: document.getElementById('eventDescription') });
+  });
+
+  // Stringbuilder for the data to be saved
+  function generateEvent() {
+    // Get values from form inputs
+    const title = document.getElementById('eventTitle').value;
+    const date = document.getElementById('eventDate').value;
+    const description = easyMDE.value();
+
+    // Create the Markdown content
+    const markdownContent = 
+        `---\n` +
+        `title: "${title}"\n` +
+        `date: ${new Date().toISOString().split('T')[0]}\n` +
+        `event_date: ${date}\n` +
+        `---\n\n` +
+        `${description}`;
+        
+    // Use FileSaver.js (or similar library) to save the file
+    download(`${title.replace(/\s+/g, '-').toLowerCase()}.md`, markdownContent);
+}
+
+</script>
+
+<body>
+  <div class="container">
+
+    <h2>Det här kommer enbart att skapa en markdown fil som sedan läggs upp via GitHub flowet.</h2>
+    <a href="https://github.com/uppsaladatavetare/datavetenskap.nu">Mer info här!</a>
+    
+    <form id="eventForm">
+      <div class="form-group">
+          <label for="eventTitle">Event Title</label>
+          <input type="text" class="form-control" id="eventTitle">
+      </div>
+      <div class="form-group">
+          <label for="eventDate">Event Date</label>
+          <input type="date" class="form-control" id="eventDate">
+      </div>
+      <div class="form-group">
+          <label for="eventDescription">Description</label>
+          <textarea class="form-control" id="eventDescription">
+            
+          </textarea>
+      </div>
+
+      <button type="button" class="btn btn-primary" onclick="generateEvent()">Create Event Markdown</button>
+  </form>
+  
+  </div>
+</body>
+
+</html>
