@@ -16,6 +16,6 @@ Representera programmet och bemöt framtida datavetare likt företag som är int
 
 Värt att nämna gratis fika och friskvård ingår <3
 
-För mer information: [Klicka här](]https://uu.varbi.com/what:job/jobID:580559/)
+För mer information: [Klicka här](https://uu.varbi.com/what:job/jobID:580559/)
 
 **Ansökan stänger den 3 februari!**
