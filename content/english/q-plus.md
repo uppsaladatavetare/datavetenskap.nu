@@ -13,4 +13,4 @@ Everyone who identifies as a girl or non-binary is warmly welcome to join us! Th
 
 You can also find Q+ on instagram, [@qplusuu](https://www.instagram.com/qplusuu/).
 
-If you have any questions or concerns, feel free to email *Israa Aly Abdou*, *Klara Hugo* & *My Lindenius* at qplus@it.uu.se. 
+If you have any questions or concerns, feel free to email *Maria Eriksson* & *Tova Radhe* at qplus@it.uu.se 
