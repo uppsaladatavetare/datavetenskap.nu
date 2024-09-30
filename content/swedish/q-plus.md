@@ -13,4 +13,4 @@ Alla som identifierar sig som tjej eller ickebinär är varmt välkommna att var
 
 Du kan även följa Q+ på instagram, [@qplusuu](https://www.instagram.com/qplusuu/).
 
-Vid frågor eller funderingar - maila *Israa Aly Abdou*, *Klara Hugo* & *My Lindenius* på qplus@it.uu.se
+Vid frågor eller funderingar - maila *Maria Eriksson* & *Tova Radhe* på qplus@it.uu.se
