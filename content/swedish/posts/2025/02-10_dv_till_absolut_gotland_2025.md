@@ -29,6 +29,6 @@ I formuläret ser du de olika prisklasserna som beror på hur man vill bo på Go
 Innan du anmäler dig :
 - Tänk igenom med vilka och hur du vill bo
 - Resa till och från Gotland löses på egen hand
-- Anmälan: https://forms.gle/FMoP8AFDqnL4N8YA7
+- Anmälan: https://forms.gle/MkZizma8mgiKvvgW9
 - AGs hemsida: https://absolutgotland.se/
 - Facebook Event: https://fb.me/e/2Kn7zKQup
