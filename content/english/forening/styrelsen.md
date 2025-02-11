@@ -8,12 +8,12 @@ menu: en-Förening
 
 |    |   |   | 
 |---|---|---|
-| **President** | Almir Fejzic  | dv-ordf@utn.se  | 
-| **Vice President & Financial Director** | David Bagstevold  | dv-kassor@utn.se  |
-| **Head of Information** | Jonatan Andersen | dv-info@utn.se |
-| **Head of Events (senior)** | Signe Lundell | dv-klubb@utn.se |
-| **Head of Events (junior)** | Isidor Löwbäck | dv-klubb@utn.se |
-| **President of the Student Council** | Tintin von Zweigbergk | dv-sr@utn.se | 
-| **Student Liason Officer** | Erik K Wååk | dv-soc@utn.se  |
-| **Secretary** | Nordin Khalid | dv-sekreterare@utn.se |
+| **President** | Signe Lundell  | dv-ordf@utn.se  | 
+| **Vice President & Financial Director** | Sofie Pramgren  | dv-kassor@utn.se  |
+| **Head of Information** | Noah Huizar | dv-info@utn.se |
+| **Head of Events (senior)** | Isidor Löwbäck | dv-klubb@utn.se |
+| **Head of Events (junior)** | Malte Howard | dv-klubb@utn.se |
+| **President of the Student Council** | Robin Forslund | dv-sr@utn.se | 
+| **Student Liason Officer** | Viktor Lilejcrantz | dv-soc@utn.se  |
+| **Secretary** | Linus Hellström | dv-sekreterare@utn.se |
 | **Asset Manager** | Alexandra Sennblad | dv-stuff@utn.se |
