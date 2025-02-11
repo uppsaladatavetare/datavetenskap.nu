@@ -1,6 +1,6 @@
 ---
 title: The Board
-date: 2024-01-12
+date: 2025-02-11
 authorbox: false
 sidebar: false
 menu: en-Förening

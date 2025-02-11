@@ -11,8 +11,10 @@ tags:
   - " Alla"
 
 ---
-Äntligen är det dags igen! Absolut Gotland är här och DV ska ditt! 15-18 Maj åker vi återigen till Kneippbyn utanför Visby.
-Sista anmälningsdag är onsdag den 5 mars Kl 23:59.
+Äntligen är det dags igen! Absolut Gotland är här och DV ska dit! Den 15–18 maj åker vi återigen till Kneippbyn utanför Visby.
+Sista anmälningsdag är onsdag den 5 mars kl. 23:59.
+
+
 Vad är Absolut Gotland?
 
 Enligt arrangörerna själva: Absolut Gotland är en legendarisk fest för högskole- och universitetsstudenter som funnits i över 20 år. Strax innan säsongens ordinarie öppnande bokar vi upp en hel stugby och camping i bästa möjliga läge på Gotlands kust och ställer till med fest i dagarna fyra! Njut av vårsolen från terrassen med något drickbart i handen, dansa natten lång på nattklubben, tävla mot andra studenter i traditionella Gotländska lekar, utforska Visby... AG erbjuder något för alla.
