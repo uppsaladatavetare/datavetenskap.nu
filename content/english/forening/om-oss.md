@@ -7,7 +7,7 @@ menu: en-Förening
 ---
 
 
-Uppsala Datavetare (UD for short) is the section within UTN which represents Computer Scientists, however this is not the whole story! In addition to representing the Bachelors programme in Computer Science, we represent the:
+Uppsala Datavetare (UD for short) is the section that represents Computer Scientists, however this is not the whole story! In addition to representing the Bachelors programme in Computer Science, we represent the:
 * Master program in Computer Science
 * Master program in Data Science
 * Master programme in Image analysis and machine learning

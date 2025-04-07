@@ -30,3 +30,6 @@ The following documents are only in swedish for the time being.
 
 ## Board meeting minutes 2023
 {{< list-files dir="documents/Mötesprotokoll_2023" regexp=".pdf$" >}}
+
+## Board meeting minutes 2024
+{{< list-files dir="documents/Mötesprotokoll_2024" regexp=".pdf$" >}}

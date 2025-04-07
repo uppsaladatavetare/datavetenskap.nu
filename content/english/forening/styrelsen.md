@@ -14,6 +14,6 @@ menu: en-Förening
 | **Head of Events (senior)** | Isidor Löwbäck | dv-klubb@utn.se |
 | **Head of Events (junior)** | Malte Howard | dv-klubb@utn.se |
 | **Head of Education** | Robin Forslund | dv-sr@utn.se | 
-| **Head of Student Welfare** | Viktor Liljecrantz | dv-soc@utn.se  |
+| **Head of Student Welfare** | Viktor Liljencrantz | dv-soc@utn.se  |
 | **Secretary** | Linus Hellström | dv-sekreterare@utn.se |
 | **Asset Manager** | Alexandra Sennblad | dv-stuff@utn.se |

@@ -29,3 +29,7 @@ menu: Förening
 
 ## Mötesprotokoll 2023
 {{< list-files dir="documents/Mötesprotokoll_2023" regexp=".pdf$" >}}
+
+## Mötesprotokoll 2024
+{{< list-files dir="documents/Mötesprotokoll_2024" regexp=".pdf$" >}}
+
