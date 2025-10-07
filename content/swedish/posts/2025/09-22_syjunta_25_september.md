@@ -2,7 +2,7 @@
 
 title: Syjunta 25 September
 date: 2025-09-22 07:34:58
-thumbnail: "/img/2025/Syjunta_sep.png"
+thumbnail: "/img/2025/syjunta_sep.png"
 authors: ["Informationsansvarig"]
 tags: 
   - "Evenemang"
