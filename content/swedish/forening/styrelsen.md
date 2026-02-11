@@ -8,12 +8,12 @@ menu: Förening
 
 |    |   |   | 
 |---|---|---|
-| **Ordförande** | Signe Lundell  | dv-ordf@utn.se  | 
-| **Vice Ordförande & Kassör** | Sofie Pramgren  | dv-kassor@utn.se  |
-| **Informationsansvarig** | Noah Huizar | dv-info@utn.se |
-| **Klubbmästare (senior)** | Malte Howard | dv-klubb@utn.se |
-| **Klubbmästare (junior)** | Eric Åkerström | dv-klubb@utn.se |
-| **Utbildningansvarig** | Robin Forslund | dv-sr@utn.se | 
-| **Studiesocialt ansvarig** | Viktor Liljencrantz | dv-soc@utn.se  |
-| **Sekreterare** | Linus Hellström | dv-sekreterare@utn.se |
-| **Tillgångsansvarig** | Alexandra Sennblad | dv-stuff@utn.se |
+| **Ordförande** | Malte Howard  | dv-ordf@utn.se  | 
+| **Vice Ordförande & Kassör** | Signe Lundell  | dv-kassor@utn.se  |
+| **Informationsansvarig** | Jenny Nordlund | dv-info@utn.se |
+| **Klubbmästare (senior)** | Eric Åkerström | dv-klubb@utn.se |
+| **Klubbmästare (junior)** | Simon Eriksson | dv-klubb@utn.se |
+| **Utbildningansvarig** | Jonatan Andersen | dv-sr@utn.se | 
+| **Studiesocialt ansvarig** | Sebastian Blom | dv-soc@utn.se  |
+| **Sekreterare** | Hugo Wass | dv-sekreterare@utn.se |
+| **Tillgångsansvarig** | Greta Bäck | dv-stuff@utn.se |
