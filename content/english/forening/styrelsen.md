@@ -11,9 +11,10 @@ menu: en-Förening
 | **President** | Malte Howard  | dv-ordf@utn.se  | 
 | **Vice President & Financial Director** | Signe Lundell  | dv-kassor@utn.se  |
 | **Head of Information** | Jenny Nordlund | dv-info@utn.se |
-| **Head of Events (senior)** | Eric Åkerström | dv-klubb@utn.se |
-| **Head of Events (junior)** | Simon Eriksson | dv-klubb@utn.se |
-| **Head of Education** | Jonatan Andersen | dv-sr@utn.se | 
+| **Head of Events (senior)** | Simon Eriksson | dv-klubb@utn.se |
+| **Head of Events (junior)** | Adam van Krieken | dv-klubb@utn.se |
+| **Head of Education** | Thomas Nohrin | dv-sr@utn.se | 
 | **Head of Student Welfare** | Sebastian Blom | dv-soc@utn.se  |
 | **Secretary** | Hugo Wass | dv-sekreterare@utn.se |
 | **Asset Manager** | Greta Bäck | dv-stuff@utn.se |
+| **Economics Relations Manager** | Noah Huizar | dv-foretag@utn.se |
