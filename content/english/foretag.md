@@ -37,4 +37,4 @@ We can offer
 
 For the IT institution, it is important that the education is in line with the industry development, and an important part of this is just contact between students and companies. We design our company events with interactivity and personal contacts as our guiding principle.
 
-Contact [dv-pr@it.uu.se](mailto:dv-foretag@it.uu.se) for more information and if interested.
+Contact [dv-pr@it.uu.se](mailto:dv-foretag@utn.se) for more information and if interested.

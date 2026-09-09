@@ -55,4 +55,4 @@ näringslivsutvecklingen, och en viktig del i detta är just kontakt mellan
 studenter och företag. Vi utformar våra företagsevent med interaktivitet och
 personliga kontakter som riktmärke.
 
-Kontakta [dv-pr@it.uu.se](mailto:dv-foretag@it.uu.se) för mer information samt vid intresse.
+Kontakta [dv-pr@it.uu.se](mailto:dv-foretag@utn.se) för mer information samt vid intresse.
